@@ -2,7 +2,7 @@
   "slides": [
     {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtg5ftw/",
-      "img": "https://example.com/assets/top-01.jpg",
+      "img": "https://tsimg.azureedge.net/img/2025/07/f61429314540b50bf2350101d36cf92b.jpg",
       "title": "FES☆TIVE 辻こはる生誕祭2025",
       "label": "8/14(木)・チケット受付中!",
       "updated": "2025-09-08T23:00:00+09:00",  // ← この日時から NEW を判定
@@ -11,14 +11,14 @@
     },
     {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyaek/",
-      "img": "https://example.com/assets/top-02.jpg",
+      "img": "https://tsimg.azureedge.net/img/2025/07/b3416e6ead29090ab5a2937c3fc93b4a.jpg",
       "title": "スーパーサマースプラッシュ!!!!!!2025",
       "label": "8/23(土)・チケット受付中!",
       "badge": ""                                 // ← 明示的にバッジなし（自動NEWも無効化）
     },
     {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyaem/",
-      "img": "https://example.com/assets/top-03.jpg",
+      "img": "https://tsimg.azureedge.net/img/2025/07/0fc8f0f921f3df8cac0ec2c61955aa6e.jpg",
       "title": "#Appareいったれ横アリ…",
       "label": "8/30(土)～12/27(土)・チケット受付中!",
       "badge": "先行",                             // ← 明示バッジがあればそれを表示（NEWより優先）
