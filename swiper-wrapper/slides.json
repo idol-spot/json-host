@@ -1,20 +1,28 @@
 {
-  "updated": "2025-09-08T23:00:00+09:00",
   "slides": [
     {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtg5ftw/",
       "img": "https://example.com/assets/top-01.jpg",
       "title": "FES☆TIVE 辻こはる生誕祭2025",
       "label": "8/14(木)・チケット受付中!",
-      "badge": "NEW",
-      "endAt": "2025-08-14T23:59:00+09:00"
+      "updated": "2025-09-08T23:00:00+09:00",  // ← この日時から NEW を判定
+      "newDays": 10,                              // ← このスライドだけ NEW を10日間に（省略時は既定7日）
+      "endAt": "2025-10-01T23:59:00+09:00"       // ← 期限切れで自動非表示（任意）
     },
     {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyaek/",
       "img": "https://example.com/assets/top-02.jpg",
       "title": "スーパーサマースプラッシュ!!!!!!2025",
       "label": "8/23(土)・チケット受付中!",
-      "badge": "NEW"
+      "badge": ""                                 // ← 明示的にバッジなし（自動NEWも無効化）
+    },
+    {
+      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyaem/",
+      "img": "https://example.com/assets/top-03.jpg",
+      "title": "#Appareいったれ横アリ…",
+      "label": "8/30(土)～12/27(土)・チケット受付中!",
+      "badge": "先行",                             // ← 明示バッジがあればそれを表示（NEWより優先）
+      "updated": "2025-09-02T09:00:00+09:00"
     }
   ]
 }
