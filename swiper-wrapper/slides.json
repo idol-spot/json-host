@@ -6,7 +6,8 @@
       "title": "FES☆TIVE 七瀬あい生誕祭2025",
       "cat": "9/8(月)・チケット受付中!",
       "badge": "SOON",
-      "until": "2025-09-08T23:59:59+09:00"
+      "fit": "cover",
+      "until": "2025-09-09T23:59:59+09:00"
     },
     {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyaem/",
@@ -14,6 +15,7 @@
       "title": "#Appareいったれ横アリ アリったけ！夢に大爆走ツアー2025",
       "cat": "8/30(土)-12/27(土)・チケット受付中!",
       "badge": "HOT",
+      "fit": "cover",
       "until": "2025-12-27T23:59:59+09:00"
     },
     {
@@ -22,6 +24,7 @@
       "title": "LIIiEN 定期LIVE #6",
       "cat": "9/23(火)・チケット受付中!",
       "badge": "NEW",
+      "fit": "contain",
       "until": "2025-09-23T23:59:59+09:00"
     },
     {
@@ -30,6 +33,7 @@
       "title": "Tohkei 5th OneMan Live",
       "cat": "2026/3/2(月)・チケット受付中!",
       "badge": "NEW",
+      "fit": "contain",
       "until": "2026-03-02T23:59:59+09:00"
     }
   ]
