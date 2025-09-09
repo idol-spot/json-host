@@ -1,28 +1,36 @@
 {
   "slides": [
     {
-      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtg5ftw/",
-      "img": "https://tsimg.azureedge.net/img/2025/07/f61429314540b50bf2350101d36cf92b.jpg",
-      "title": "FES☆TIVE 辻こはる生誕祭2025",
-      "label": "8/14(木)・チケット受付中!",
-      "updated": "2025-09-08T23:00:00+09:00",
-      "newDays": 10,
-      "endAt": "2025-10-01T23:59:00+09:00"
-    },
-    {
-      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyaek/",
-      "img": "https://tsimg.azureedge.net/img/2025/07/b3416e6ead29090ab5a2937c3fc93b4a.jpg",
-      "title": "スーパーサマースプラッシュ!!!!!!2025",
-      "label": "8/23(土)・チケット受付中!",
-      "badge": ""
+      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtg5ftz/",
+      "img": "https://tsimg.azureedge.net/img/2025/08/b90bfd3f50196b7b4897b08af1933535.jpg",
+      "title": "FES☆TIVE 七瀬あい生誕祭2025",
+      "cat": "9/8(月)・チケット受付中!",
+      "badge": "NEW",
+      "until": "2025-09-09T23:59:59+09:00"
     },
     {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyaem/",
       "img": "https://tsimg.azureedge.net/img/2025/07/0fc8f0f921f3df8cac0ec2c61955aa6e.jpg",
-      "title": "#Appareいったれ横アリ…",
-      "label": "8/30(土)～12/27(土)・チケット受付中!",
-      "badge": "先行",
-      "updated": "2025-09-02T09:00:00+09:00"
+      "title": "#Appareいったれ横アリ アリったけ！夢に大爆走ツアー2025",
+      "cat": "8/30(土)-12/27(土)・チケット受付中!",
+      "badge": "NEW",
+      "until": "2025-12-27T23:59:59+09:00"
+    },
+    {
+      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rta7lij/",
+      "img": "https://tsimg.azureedge.net/img/2025/08/1755522000_20250701_LIIiEN_0001.jpg",
+      "title": "LIIiEN 定期LIVE #6",
+      "cat": "9/23(火)・チケット受付中!"
+      "badge": "NEW",
+      "until": "2025-09-23T23:59:59+09:00"
+    }
+    {
+      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rt4caaa/",
+      "img": "https://tsimg.azureedge.net/img/2025/08/1754048348_Tohkei_ALL20250731-.jpg",
+      "title": "Tohkei 5th OneMan Live",
+      "cat": "2026/3/2(月)・チケット受付中!"
+      "badge": "NEW",
+      "until": "2026-03-02T23:59:59+09:00"
     }
   ]
 }
