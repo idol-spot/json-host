@@ -1,37 +1,64 @@
 {
   "slides": [
     {
-      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtg5ftz/",
-      "img": "https://tsimg.azureedge.net/img/2025/08/b90bfd3f50196b7b4897b08af1933535.jpg",
-      "title": "FES☆TIVE 七瀬あい生誕祭2025",
-      "cat": "9/8(月)・チケット受付中!",
-      "badge": "SOON",
-      "fit": "cover",
-      "until": "2025-09-09T23:59:59+09:00"
-    },
-    {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyaem/",
       "img": "https://tsimg.azureedge.net/img/2025/07/0fc8f0f921f3df8cac0ec2c61955aa6e.jpg",
       "title": "#Appareいったれ横アリ アリったけ！夢に大爆走ツアー2025",
-      "cat": "8/30(土)-12/27(土)・チケット受付中!",
+      "cat": "8/30(土)-12/27(土)・全国",
       "badge": "HOT",
       "fit": "cover",
       "until": "2025-12-27T23:59:59+09:00"
+    },
+        {
+      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rt4caad/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/09/1757807237_衛星とカラテア.jpg",
+      "title": "衛星とカラテア ワンマンライブ",
+      "cat": "11/18(火)・東京",
+      "badge": "HOT",
+      "fit": "contain",
+      "until": "2025-11-17T23:59:59+09:00"
+    },
+    {
+      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtle026/",
+      "img": "https://tsimg.azureedge.net/img/2025/09/1757481938_0910.jpg",
+      "title": "#ババババンビ 全国凱旋ツアー “咲・祈・彩・馬・光 ’’ノ宴25-26",
+      "cat": "10/25(土)-2026/1/31(土)・全国",
+      "badge": "NEW",
+      "fit": "cover",
+      "until": "2026-01-30T23:59:59+09:00"
+    },
+    {
+      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtle2i3/",
+      "img": "https://tsimg.azureedge.net/img/2025/07/c0f67b3a7d3cbfbc3008adea9efcdf67.jpg",
+      "title": "#2i2 Live series 【version up.33】",
+      "cat": "9/21(日)・東京",
+      "badge": "SOON",
+      "fit": "cover",
+      "until": "2025-09-20T23:59:59+09:00"
     },
     {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rta7lij/",
       "img": "https://tsimg.azureedge.net/img/2025/08/1755522000_20250701_LIIiEN_0001.jpg",
       "title": "LIIiEN 定期LIVE #6",
-      "cat": "9/23(火)・チケット受付中!",
-      "badge": "NEW",
+      "cat": "9/23(火)・東京",
+      "badge": "SOON",
       "fit": "contain",
       "until": "2025-09-23T23:59:59+09:00"
+    },
+      {
+      "href": "https://tsimg.azureedge.net/img/2025/07/1753240178_THE-ORCHESTRA-TOKYO.png",
+      "img": "https://tsimg.azureedge.net/img/2025/07/c0f67b3a7d3cbfbc3008adea9efcdf67.jpg",
+      "title": "THE ORCHESTRA TOKYO 9th ONEMAN SHOW『GENESiS ORCHESTRA』",
+      "cat": "9/25(木)・東京",
+      "badge": "SOON",
+      "fit": "cover",
+      "until": "2025-09-24T23:59:59+09:00"
     },
     {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rt4caaa/",
       "img": "https://tsimg.azureedge.net/img/2025/08/1754048348_Tohkei_ALL20250731-.jpg",
       "title": "Tohkei 5th OneMan Live",
-      "cat": "2026/3/2(月)・チケット受付中!",
+      "cat": "2026/3/2(月)・東京",
       "badge": "NEW",
       "fit": "contain",
       "until": "2026-03-02T23:59:59+09:00"
