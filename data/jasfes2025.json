@@ -1,0 +1,64 @@
+{
+  "title": "エンドー音楽堂presents  ジャスフェス2025",
+  "posterImageUrl": "",
+  "viewMode": "shows",
+  "buttonText": "申し込む",
+  "buttonText2": "",
+  "performersText": "MC：いっきゅう(さとうきみたか・島田周彦)、マジカルひもり　\n出演：いぎなり東北産、東京女子流、TEAM SHACHI、LIIiEN、EBiDAN SENDAI、and more",
+  "pickupText": "楽天チケットアプリ受取（スマートフォン）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "ジャスフェス実行委員会",
+  "contactTel": "jasfes2023@gmail.com",
+  "contactTelHref": "mailto:jasfes2023@gmail.com",
+  "contactHours": "",
+  "notesText": "※出演者・スタッフ・お客さま全ての方にジャージ(宮城弁でジャス)を着用頂きます。\n※LIVEとは別に簡単な体力測定企画、出演者全員出演のエンディングにご出演の協力を頂ければと思います。\n※お客さまプレゼント用ジャージにサインを頂ければと思います。(1着予定)",
+  "dates": [
+    "2025-10-13T14:00:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "EBeanS 10階屋上特設ステージ",
+      "prefecture": "宮城"
+    }
+  ],
+  "buyUrls": [
+    ""
+  ],
+  "buyUrls2": [
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "13:15",
+      "start": "14:00"
+    }
+  ],
+  "sales": [
+    {
+      "label": "先行抽選",
+      "areas": [],
+      "seats": [],
+      "startISO": "2025-09-14T19:00:00+09:00",
+      "endISO": "2025-09-21T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2025-09-27T10:00:00+09:00",
+      "endISO": "2025-10-12T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "前方観覧エリア",
+      "price": 6500,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "一般エリア",
+      "price": 1500,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
