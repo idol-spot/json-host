@@ -1,22 +1,13 @@
 {
   "slides": [
     {
-      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyaem/",
-      "img": "https://tsimg.azureedge.net/img/2025/07/0fc8f0f921f3df8cac0ec2c61955aa6e.jpg",
-      "title": "#Appareいったれ横アリ アリったけ！夢に大爆走ツアー2025",
-      "cat": "8/30(土)-12/27(土)・全国",
-      "badge": "HOT",
+      "href": "https://idol-spot.tstar.jp/event/ria5aaa/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/09/1757751719_jusfes_2025.png",
+      "title": "エンドー音楽堂presents ジャスフェス2025",
+      "cat": "10/13(月)・宮城",
+      "badge": "NEW",
       "fit": "cover",
-      "until": "2025-12-27T23:59:59+09:00"
-    },
-        {
-      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rt4caad/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/09/1757807237_衛星とカラテア.jpg",
-      "title": "衛星とカラテア ワンマンライブ",
-      "cat": "11/18(火)・東京",
-      "badge": "HOT",
-      "fit": "contain",
-      "until": "2025-11-17T23:59:59+09:00"
+      "until": "2025-10-12T23:59:59+09:00"
     },
     {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtle026/",
@@ -26,6 +17,24 @@
       "badge": "NEW",
       "fit": "cover",
       "until": "2026-01-30T23:59:59+09:00"
+    },
+    {
+      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyaem/",
+      "img": "https://tsimg.azureedge.net/img/2025/07/0fc8f0f921f3df8cac0ec2c61955aa6e.jpg",
+      "title": "#Appareいったれ横アリ アリったけ！夢に大爆走ツアー2025",
+      "cat": "8/30(土)-12/27(土)・全国",
+      "badge": "HOT",
+      "fit": "cover",
+      "until": "2025-12-27T23:59:59+09:00"
+    },
+    {
+      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rt4caad/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/09/1757807237_衛星とカラテア.jpg",
+      "title": "衛星とカラテア ワンマンライブ",
+      "cat": "11/18(火)・東京",
+      "badge": "HOT",
+      "fit": "contain",
+      "until": "2025-11-17T23:59:59+09:00"
     },
     {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtle2i3/",
@@ -45,7 +54,7 @@
       "fit": "contain",
       "until": "2025-09-23T23:59:59+09:00"
     },
-      {
+    {
       "href": "https://tsimg.azureedge.net/img/2025/07/1753240178_THE-ORCHESTRA-TOKYO.png",
       "img": "https://tsimg.azureedge.net/img/2025/07/c0f67b3a7d3cbfbc3008adea9efcdf67.jpg",
       "title": "THE ORCHESTRA TOKYO 9th ONEMAN SHOW『GENESiS ORCHESTRA』",
