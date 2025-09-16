@@ -10,15 +10,6 @@
       "until": "2025-10-12T23:59:59+09:00"
     },
     {
-      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtle026/",
-      "img": "https://tsimg.azureedge.net/img/2025/09/1757481938_0910.jpg",
-      "title": "#ババババンビ 全国凱旋ツアー “咲・祈・彩・馬・光 ’’ノ宴25-26",
-      "cat": "10/25(土)-2026/1/31(土)・全国",
-      "badge": "NEW",
-      "fit": "cover",
-      "until": "2026-01-30T23:59:59+09:00"
-    },
-    {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyaem/",
       "img": "https://tsimg.azureedge.net/img/2025/07/0fc8f0f921f3df8cac0ec2c61955aa6e.jpg",
       "title": "#Appareいったれ横アリ アリったけ！夢に大爆走ツアー2025",
@@ -26,6 +17,24 @@
       "badge": "HOT",
       "fit": "cover",
       "until": "2025-12-27T23:59:59+09:00"
+    },
+    {
+      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rt4caab/",
+      "img": "https://tsimg.azureedge.net/img/2025/09/1758029203_eiseitokaratea_StarryJourney.jpg",
+      "title": "衛星とカラテア 全国ツアー2025「Starry Journey」",
+      "cat": "9/25(木)-11/2(日)・全国",
+      "badge": "HOT",
+      "fit": "cover",
+      "until": "2025-11-01T23:59:59+09:00"
+    },
+    {
+      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtle026/",
+      "img": "https://tsimg.azureedge.net/img/2025/09/1757481938_0910.jpg",
+      "title": "#ババババンビ 全国凱旋ツアー “咲・祈・彩・馬・光 ’’ノ宴25-26",
+      "cat": "10/25(土)-2026/1/31(土)・全国",
+      "badge": "NEW",
+      "fit": "cover",
+      "until": "2026-01-30T23:59:59+09:00"
     },
     {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rt4caad/",
