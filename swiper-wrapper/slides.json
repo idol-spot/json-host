@@ -10,13 +10,22 @@
       "until": "2025-10-17T23:59:59+09:00"
     },
     {
-      "href": "https://idol-spot.tstar.jp/event/ria5aaa/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/09/1757751719_jusfes_2025.png",
-      "title": "エンドー音楽堂presents ジャスフェス2025",
-      "cat": "10/13(月)・宮城",
+      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rt4caab/",
+      "img": "https://tsimg.azureedge.net/img/2025/09/1758029203_eiseitokaratea_StarryJourney.jpg",
+      "title": "衛星とカラテア 全国ツアー2025「Starry Journey」",
+      "cat": "9/25(木)-11/2(日)・全国",
+      "badge": "HOT",
+      "fit": "cover",
+      "until": "2025-11-01T23:59:59+09:00"
+    },
+    {
+      "href": "https://idol-spot.tstar.jp/event/ripyaab/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/09/1758768548_永堀ゆめ生誕祭.png",
+      "title": "Appare! 永堀ゆめ生誕祭2025",
+      "cat": "11/3(月)・東京",
       "badge": "NEW",
       "fit": "cover",
-      "until": "2025-10-12T23:59:59+09:00"
+      "until": "2025-11-02T23:59:59+09:00"
     },
     {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyaem/",
@@ -26,15 +35,6 @@
       "badge": "HOT",
       "fit": "cover",
       "until": "2025-12-27T23:59:59+09:00"
-    },
-    {
-      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rt4caab/",
-      "img": "https://tsimg.azureedge.net/img/2025/09/1758029203_eiseitokaratea_StarryJourney.jpg",
-      "title": "衛星とカラテア 全国ツアー2025「Starry Journey」",
-      "cat": "9/25(木)-11/2(日)・全国",
-      "badge": "HOT",
-      "fit": "cover",
-      "until": "2025-11-01T23:59:59+09:00"
     },
     {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtle026/",
@@ -55,33 +55,6 @@
       "until": "2025-11-17T23:59:59+09:00"
     },
     {
-      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtle2i3/",
-      "img": "https://tsimg.azureedge.net/img/2025/07/c0f67b3a7d3cbfbc3008adea9efcdf67.jpg",
-      "title": "#2i2 Live series 【version up.33】",
-      "cat": "9/21(日)・東京",
-      "badge": "SOON",
-      "fit": "cover",
-      "until": "2025-09-20T23:59:59+09:00"
-    },
-    {
-      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rta7lij/",
-      "img": "https://tsimg.azureedge.net/img/2025/08/1755522000_20250701_LIIiEN_0001.jpg",
-      "title": "LIIiEN 定期LIVE #6",
-      "cat": "9/23(火)・東京",
-      "badge": "SOON",
-      "fit": "contain",
-      "until": "2025-09-23T23:59:59+09:00"
-    },
-    {
-      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtleort/",
-      "img": "https://tsimg.azureedge.net/img/2025/07/1753240178_THE-ORCHESTRA-TOKYO.png",
-      "title": "THE ORCHESTRA TOKYO 9th ONEMAN SHOW『GENESiS ORCHESTRA』",
-      "cat": "9/25(木)・東京",
-      "badge": "SOON",
-      "fit": "cover",
-      "until": "2025-09-24T23:59:59+09:00"
-    },
-    {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rt4caaa/",
       "img": "https://tsimg.azureedge.net/img/2025/08/1754048348_Tohkei_ALL20250731-.jpg",
       "title": "Tohkei 5th OneMan Live",
@@ -89,6 +62,15 @@
       "badge": "NEW",
       "fit": "contain",
       "until": "2026-03-02T23:59:59+09:00"
+    },
+    {
+      "href": "https://idol-spot.tstar.jp/event/ria5aaa/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/09/1757751719_jusfes_2025.png",
+      "title": "エンドー音楽堂presents ジャスフェス2025",
+      "cat": "10/13(月)・宮城",
+      "badge": "NEW",
+      "fit": "cover",
+      "until": "2025-10-12T23:59:59+09:00"
     }
   ]
 }
