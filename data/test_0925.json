@@ -47,7 +47,7 @@
       "label": "一般発売",
       "areas": [],
       "seats": [
-        "一般チケット"
+        "夏は終わらない！チケット"
       ],
       "startISO": "2025-09-25T19:00:00+09:00",
       "endISO": "2025-11-02T23:59:59+09:00"
@@ -69,7 +69,7 @@
       "buyUrl": "https://idol-spot.tstar.jp/lots/events/57396/entry/56105/agreement"
     },
     {
-      "name": "一般チケット",
+      "name": "夏は終わらない！チケット",
       "price": 3000,
       "buyUrl": "https://idol-spot.tstar.jp/cart/performances/351575/agreement"
     }
