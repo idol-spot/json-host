@@ -1,77 +1,64 @@
 {
-  "title": "Appare! 永堀ゆめ生誕祭2025",
-  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/09/1758768548_永堀ゆめ生誕祭.png",
-  "viewMode": "tickets",
+  "title": "エンドー音楽堂presents  ジャスフェス2025",
+  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/09/1757751719_jusfes_2025.png",
+  "viewMode": "shows",
   "buttonText": "",
   "buttonText2": "",
-  "performersText": "",
+  "performersText": "MC：いっきゅう(さとうきみたか・島田周彦)、マジカルひもり　\n出演：いぎなり東北産、東京女子流、TEAM SHACHI、LIIiEN、EBiDAN SENDAI、仙台弁こけし",
   "pickupText": "楽天チケットアプリ受取（スマートフォン）",
   "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
-  "contactAgency": "株式会社PLAYYTE",
-  "contactTel": "03-6300-9000",
-  "contactTelHref": "tel:0363009000",
+  "contactAgency": "ジャスフェス実行委員会",
+  "contactTel": "jasfes2023@gmail.com",
+  "contactTelHref": "mailto:jasfes2023@gmail.com",
   "contactHours": "",
-  "notesText": "[no-mark]整理番号順入場\n入場時、別途ドリンク代必要\nモッシュ、リフト、ダイブなど、周囲のお客様と接触する行為や他のお客様の迷惑となる行為は禁止。\nご自身の観覧スペース以外に荷物を置いたり、肩幅を超えて腕を広げるなど、フロア内の場所取り行為は禁止。\nそのような行為が見受けられた場合はスタッフよりお声掛けさせて頂く場合がございます。ルールをお守り頂けないお客様に対しては、退場処分とさせて頂きます。\n転売禁止。\n再入場、飲食物の持ち込み禁止。\nアルコール販売無し。泥酔者の入場不可。\n[no-mark]本公演が中止にならない限り払い戻し等の対応は不可",
+  "notesText": "※整理番号順入場\n※雨天決行・荒天中止\n※出演者・スタッフ・お客さま全ての方にジャージ(宮城弁でジャス)を着用頂きます。",
   "dates": [
-    "2025-11-03T15:00:00+09:00"
+    "2025-10-13T14:00:00+09:00"
   ],
   "venues": [
     {
-      "name": "新宿パークタワーホール",
-      "prefecture": "東京"
+      "name": "EBeanS 10階屋上特設ステージ",
+      "prefecture": "宮城"
     }
   ],
   "buyUrls": [
-    "https://idol-spot.tstar.jp/lots/events/57396/entry/56105/agreement"
+    "https://idol-spot.tstar.jp/cart/performances/351555/agreement"
   ],
   "buyUrls2": [
-    "https://idol-spot.tstar.jp/cart/performances/351575/agreement"
+    ""
   ],
   "showTimes": [
     {
-      "open": "14:00",
-      "start": "15:00"
+      "open": "13:15",
+      "start": "14:00"
     }
   ],
   "sales": [
     {
       "label": "先行抽選",
       "areas": [],
-      "seats": [
-        "Sチケット"
-      ],
-      "startISO": "2025-09-25T12:00:00+09:00",
-      "endISO": "2025-10-19T23:59:59+09:00"
+      "seats": [],
+      "startISO": "2025-09-14T19:00:00+09:00",
+      "endISO": "2025-09-21T23:59:59+09:00"
     },
     {
       "label": "一般発売",
       "areas": [],
-      "seats": [
-        "夏は終わらない！チケット"
-      ],
-      "startISO": "2025-09-25T19:00:00+09:00",
-      "endISO": "2025-11-02T23:59:59+09:00"
-    },
-    {
-      "label": "一般発売",
-      "areas": [],
-      "seats": [
-        "Sチケット"
-      ],
-      "startISO": "2025-10-20T19:00:00+09:00",
-      "endISO": "2025-11-02T23:59:59+09:00"
+      "seats": [],
+      "startISO": "2025-09-27T09:55:00+09:00",
+      "endISO": "2025-10-12T23:59:59+09:00"
     }
   ],
   "tickets": [
     {
-      "name": "Sチケット",
-      "price": 10000,
-      "buyUrl": "https://idol-spot.tstar.jp/lots/events/57396/entry/56105/agreement"
+      "name": "前方観覧エリア",
+      "price": 6500,
+      "buyUrl": "#purchase"
     },
     {
-      "name": "夏は終わらない！チケット",
-      "price": 3000,
-      "buyUrl": "https://idol-spot.tstar.jp/cart/performances/351575/agreement"
+      "name": "一般エリア",
+      "price": 1500,
+      "buyUrl": "#purchase"
     }
   ]
 }
