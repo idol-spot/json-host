@@ -1,6 +1,6 @@
 {
   "title": "衛星とカラテアPresents「超 明星現象2025 ex」",
-  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/09/1759141441_chomyojo1015.jpg",
+  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/09/1759203053_chomyojo_ex1015.png",
   "viewMode": "shows",
   "buttonText": "申し込む",
   "buttonText2": "",
@@ -38,7 +38,7 @@
       "label": "先行抽選",
       "areas": [],
       "seats": [],
-      "startISO": "2025-09-29T21:00:00+09:00",
+      "startISO": "2025-09-30T21:00:00+09:00",
       "endISO": "2025-10-04T23:59:59+09:00"
     },
     {
@@ -58,6 +58,11 @@
     {
       "name": "一般",
       "price": 2500,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "女性",
+      "price": 2000,
       "buyUrl": "#purchase"
     }
   ]
