@@ -1,0 +1,52 @@
+{
+  "title": "LIIiEN 定期LIVE #7",
+  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/10/1759309416_20250701_LIIiEN_0001.jpg",
+  "viewMode": "shows",
+  "buttonText": "",
+  "buttonText2": "",
+  "performersText": "",
+  "pickupText": "楽天チケットアプリ受取（スマートフォン）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "LIIiEN問い合わせフォーム",
+  "contactTel": "liiien.info@gmail.com",
+  "contactTelHref": "mailto:liiien.info@gmail.com",
+  "contactHours": "",
+  "notesText": "整理番号順入場\n入場時、別途ドリンク代必要",
+  "dates": [
+    "2025-10-18T16:30:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "LIVE STUDIO LODGE",
+      "prefecture": "東京"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/cart/performances/351988/agreement"
+  ],
+  "buyUrls2": [
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "16:00",
+      "start": "16:30"
+    }
+  ],
+  "sales": [
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2025-10-11T10:00:00+09:00",
+      "endISO": "2025-10-17T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "一般チケット",
+      "price": 4000,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
