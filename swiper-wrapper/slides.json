@@ -1,6 +1,33 @@
 {
   "slides": [
     {
+      "href": "https://idol-spot.tstar.jp/event/ri6saab/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/09/1759224160_chomyojo_ex1015_02.png",
+      "title": "衛星とカラテアPresents「超 明星現象2025 ex」",
+      "cat": "10/15(水)・東京",
+      "badge": "NEW",
+      "fit": "cover",
+      "until": "2025-10-14T23:59:59+09:00"
+    },
+    {
+      "href": "https://idol-spot.tstar.jp/event/ripyaad/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/09/1759199843_AppareHALLOWEEN-2025.jpg",
+      "title": "Appare!HALLOWEEN 2025",
+      "cat": "10/31(金)・東京",
+      "badge": "NEW",
+      "fit": "cover",
+      "until": "2025-10-30T23:59:59+09:00"
+    },
+    {
+      "href": "https://idol-spot.tstar.jp/event/rig5aaa/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/11…25/10/1759286790_festive_hinata_birthday_live.jpg",
+      "title": "FES☆TIVE 八木ひなた生誕祭2025",
+      "cat": "11/11(火)・東京",
+      "badge": "NEW",
+      "fit": "cover",
+      "until": "2025-11-10T23:59:59+09:00"
+    },
+    {
       "href": "https://idol-spot.tstar.jp/event/ripyaaa/",
       "img": "https://tsimg.azureedge.net/img/2025/09/1758197051_appare_1018v2.jpg",
       "title": "#Appareいったれ横アリ はじめまして！Appare!です！vol.2",
@@ -53,24 +80,6 @@
       "badge": "HOT",
       "fit": "contain",
       "until": "2025-11-17T23:59:59+09:00"
-    },
-    {
-      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rt4caaa/",
-      "img": "https://tsimg.azureedge.net/img/2025/08/1754048348_Tohkei_ALL20250731-.jpg",
-      "title": "Tohkei 5th OneMan Live",
-      "cat": "2026/3/2(月)・東京",
-      "badge": "NEW",
-      "fit": "contain",
-      "until": "2026-03-02T23:59:59+09:00"
-    },
-    {
-      "href": "https://idol-spot.tstar.jp/event/ria5aaa/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/09/1757751719_jusfes_2025.png",
-      "title": "エンドー音楽堂presents ジャスフェス2025",
-      "cat": "10/13(月)・宮城",
-      "badge": "NEW",
-      "fit": "cover",
-      "until": "2025-10-12T23:59:59+09:00"
     }
   ]
 }
