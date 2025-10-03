@@ -1,0 +1,77 @@
+{
+  "title": "Appare!START!",
+  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/10/1759480269_appare_start.jpg",
+  "viewMode": "tickets",
+  "buttonText": "【前方チケット】 購入する",
+  "buttonText2": "【一般チケット】 購入する",
+  "performersText": "",
+  "pickupText": "楽天チケットアプリ受取（スマートフォン）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "株式会社PLAYYTE",
+  "contactTel": "03-6300-9000",
+  "contactTelHref": "tel:0363009000",
+  "contactHours": "",
+  "notesText": "整理番号順入場\nモッシュ、リフト、ダイブなど、周囲のお客様と接触する行為や他のお客様の迷惑となる行為は禁止。\nご自身の観覧スペース以外に荷物を置いたり、肩幅を超えて腕を広げるなど、フロア内の場所取り行為は禁止。\nそのような行為が見受けられた場合はスタッフよりお声掛けさせて頂く場合がございます。ルールをお守り頂けないお客様に対しては、退場処分とさせて頂きます。\n転売禁止。\n再入場、飲食物の持ち込み禁止。\nアルコール販売無し。泥酔者の入場不可。\n本公演が中止にならない限り払い戻し等の対応は不可",
+  "dates": [
+    "2025-11-08T16:00:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "Spotify O-WEST",
+      "prefecture": "東京"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/lots/events/57484/entry/56197/agreement"
+  ],
+  "buyUrls2": [
+    "https://idol-spot.tstar.jp/cart/performances/352051/agreement"
+  ],
+  "showTimes": [
+    {
+      "open": "15:00",
+      "start": "16:00"
+    }
+  ],
+  "sales": [
+    {
+      "label": "先行抽選",
+      "areas": [],
+      "seats": [
+        "前方チケット"
+      ],
+      "startISO": "2025-10-03T22:00:00+09:00",
+      "endISO": "2025-10-20T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [
+        "前方チケット"
+      ],
+      "startISO": "2025-10-21T20:00:00+09:00",
+      "endISO": "2025-11-07T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [
+        "一般チケット"
+      ],
+      "startISO": "2025-10-03T22:00:00+09:00",
+      "endISO": "2025-11-07T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "前方チケット",
+      "price": 5000,
+      "buyUrl": "https://idol-spot.tstar.jp/lots/events/57484/entry/56197/agreement"
+    },
+    {
+      "name": "一般チケット",
+      "price": 600,
+      "buyUrl": "https://idol-spot.tstar.jp/cart/performances/352051/agreement"
+    }
+  ]
+}
