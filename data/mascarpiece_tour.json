@@ -1,0 +1,108 @@
+{
+  "title": "Ma'Scar'Beat全国クラブツアー",
+  "posterImageUrl": "",
+  "viewMode": "shows",
+  "buttonText": "申し込む",
+  "buttonText2": "",
+  "performersText": "",
+  "pickupText": "コンビニ発券（セブンイレブン・ファミリーマート）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "",
+  "contactTel": "customer@leadi.co.jp",
+  "contactTelHref": "mailto:customer@leadi.co.jp",
+  "contactHours": "",
+  "notesText": "[no-mark]◇下記、内容を必ずご一読ください。\nFC先行抽選の申し込み枚数次第では、先行抽選、一般発売に関しては券種によって販売しない可能性がございます。\n整理番号順入場 / スタンディング / 入場別途ドリンク代必要\n優先→一般→女性\n営利目的のチケット転売禁止\n危険行為禁止、過度なジャンプ、他のお客様にご迷惑がかかる行為はおやめください。\n女性限定エリア有（女性チケット購入のお客様のみ利用可能）\n小学生以上はチケットをご用意ください。\nダイブ、サーフ、リフト、モッシュ等危険な行為、ライブの進行を妨げる行為は一切禁止とさせていただきます。\nルールをお守りいただけないお客様へ対しては、退場処分とさせていただきます。入場をお断り、ご退場いただく場合でもチケット代等の返金は一切いたしません。\n一部プレイガイド内容、公演内容、観覧ルールなどは適宜変更させていただく可能性がございます。\n物販・特典会への参加には本公演のチケットが必要となります。\n[wrap]\n[no-mark]＜注意事項＞\n※チケットの転売及び転売の為のご購入は固くお断りいたします。オークションサイト・金券ショップ・個人間での売買で購入されたチケットは、その有効性を保障いたしません。\n※お席によっては演出の一部が見えない、または見えにくい場合がございます。予めご了承ください。\n[wrap]\nチケット発券開始日は、公演日1週間前となります。予め、ご了承ください。",
+  "dates": [
+    "2025-11-16T15:45:00+09:00",
+    "2025-11-24T15:45:00+09:00",
+    "2025-12-20T15:45:00+09:00",
+    "2026-01-11T16:15:00+09:00",
+    "2026-01-31T15:15:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "PICCADILLY PREMIUM",
+      "prefecture": "大阪"
+    },
+    {
+      "name": "Nightclub GALA RESORT",
+      "prefecture": "福岡"
+    },
+    {
+      "name": "Club NEO",
+      "prefecture": "福島"
+    },
+    {
+      "name": "club JB'S",
+      "prefecture": "愛知"
+    },
+    {
+      "name": "ATOM TOKYO -SHIBUYA-",
+      "prefecture": "東京"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/lots/events/57510/entry/56208/agreement",
+    "https://idol-spot.tstar.jp/lots/events/57510/entry/56218/agreement",
+    "https://idol-spot.tstar.jp/lots/events/57510/entry/56219/agreement",
+    "https://idol-spot.tstar.jp/lots/events/57510/entry/56220/agreement",
+    "https://idol-spot.tstar.jp/lots/events/57510/entry/56221/agreement"
+  ],
+  "buyUrls2": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "14:00",
+      "start": "15:45"
+    },
+    {
+      "open": "14:00",
+      "start": "15:45"
+    },
+    {
+      "open": "14:00",
+      "start": "15:45"
+    },
+    {
+      "open": "15:30",
+      "start": "16:15"
+    },
+    {
+      "open": "14:30",
+      "start": "15:15"
+    }
+  ],
+  "sales": [
+    {
+      "label": "先行抽選",
+      "areas": [],
+      "seats": [],
+      "startISO": "2025-10-10T18:30:00+09:00",
+      "endISO": "2025-10-27T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2025-11-01T12:00:00+09:00",
+      "endISO": "2026-01-30T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "優先入場チケット",
+      "price": 6000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "一般チケット",
+      "price": 3000,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
