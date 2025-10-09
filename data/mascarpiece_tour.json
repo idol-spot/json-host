@@ -103,6 +103,11 @@
       "name": "一般チケット",
       "price": 3000,
       "buyUrl": "#purchase"
+    },
+    {
+      "name": "女性チケット",
+      "price": 3000,
+      "buyUrl": "#purchase"
     }
   ]
 }
