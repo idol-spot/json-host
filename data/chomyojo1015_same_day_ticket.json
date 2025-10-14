@@ -1,0 +1,76 @@
+{
+  "title": "衛星とカラテアPresents「超 明星現象2025 ex」",
+  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/09/1759224160_chomyojo_ex1015_02.png",
+  "viewMode": "shows",
+  "buttonText": "",
+  "buttonText2": "",
+  "performersText": "衛星とカラテア / Devil ANTHEM. / NEO JAPONISM / Merry BAD TUNE. / #ババババンビ / UtaGe! / AOAO / chuLa /MEGAFON / ちゃーむぽっしゅ",
+  "pickupText": "楽天チケットアプリ受取（スマートフォン）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "衛星とカラテア 公式info",
+  "contactTel": "eiseitokaratea.info@gmail.com",
+  "contactTelHref": "mailto:eiseitokaratea.info@gmail.com",
+  "contactHours": "",
+  "notesText": "整理番号順入場／入場時、別途ドリンク代必要\n優先エリア・女性エリアあり\n出演者・出演＆特典会時間はメンバーの体調不良やスケジュールの都合等の理由により、変更になる可能性がありますので予めご了承下さい。その際の返金などは一切応じられませんので予めご了承ください。\nイベントなど開始時間、終了時間が変更になる可能性もございますので、予めご了承ください。\nシートや荷物、私物等での席取り等は全面的に禁止いたします。移動時は、お荷物をご持参頂きますよう、宜しくお願い致します。\nまた、撤去した物、及び放置されている物に関して盗難・破損など主催者・会場・出演者は一切の責任を負いません。\n当日はご購入頂きましたチケットの番号順にお呼び致します。\nお荷物、貴重品の管理はお客様ご自身で管理お願い致します。盗難の際は弊社は一切の責任を負いませんのでご了承下さい。\n会場内でのトラブルや、お客様同士での怪我、破損時は弊社は一切の責任を負いませんのでご了承下さい。\n会場内は、入場規制をかける場合がございます。予めご了承の程、宜しくお願い申し上げます。",
+  "dates": [
+    "2025-10-15T16:10:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "Spotify O-EAST",
+      "prefecture": "東京"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/cart/performances/352100/agreement"
+  ],
+  "buyUrls2": [
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "15:30",
+      "start": "16:10"
+    }
+  ],
+  "sales": [
+    {
+      "label": "先行抽選",
+      "areas": [],
+      "seats": [],
+      "startISO": "2025-09-29T21:00:00+09:00",
+      "endISO": "2025-10-04T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2025-10-06T21:00:00+09:00",
+      "endISO": "2025-10-14T23:59:59+09:00"
+    },
+    {
+      "label": "当日券",
+      "areas": [],
+      "seats": [],
+      "startISO": "2025-10-15T00:00:00+09:00",
+      "endISO": "2025-10-15T20:00:00+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "優先",
+      "price": 5500,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "一般",
+      "price": 3000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "女性",
+      "price": 2500,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
