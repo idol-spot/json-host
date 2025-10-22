@@ -1,0 +1,64 @@
+{
+  "title": "#2i2主催対バン「64. episode調整中」",
+  "posterImageUrl": "",
+  "viewMode": "shows",
+  "buttonText": "申し込む",
+  "buttonText2": "",
+  "performersText": "",
+  "pickupText": "コンビニ発券（セブンイレブン・ファミリーマート）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "",
+  "contactTel": "customer@leadi.co.jp",
+  "contactTelHref": "mailto:customer@leadi.co.jp",
+  "contactHours": "",
+  "notesText": "[no-mark]◇下記、内容を必ずご一読ください。\n［wrap］\n整理番号順入場（前方→一般→当日券） / スタンディング / 入場別途ドリンク代必要\nコール＆レスポンスOK\n女性限定エリア設置予定となります。\n小学生以上はチケットをご用意ください。\n終演後は係員の指示に従ってご移動をお願いいたします。\n一部プレイガイド内容、公演内容、観覧ルールなどは適宜変更させていただく可能性がございます。\n［wrap］\n[no-mark]＜注意事項＞\nチケットの転売及び転売の為のご購入は固くお断りいたします。オークションサイト・金券ショップ・個人間での売買で購入されたチケットは、その有効性を保障いたしません。\nお席によっては演出の一部が見えない、または見えにくい場合がございます。予めご了承ください。\n［wrap］\nチケット発券開始日は、公演日1週間前となります。予め、ご了承ください。",
+  "dates": [
+    "2025-11-24T12:00:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "SPiCE SAPPORO",
+      "prefecture": "北海道"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/lots/events/57658/entry/56344/agreement"
+  ],
+  "buyUrls2": [
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "11:30",
+      "start": "12:00"
+    }
+  ],
+  "sales": [
+    {
+      "label": "先行抽選",
+      "areas": [],
+      "seats": [],
+      "startISO": "2025-10-28T21:00:00+09:00",
+      "endISO": "2025-11-10T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2025-11-14T21:00:00+09:00",
+      "endISO": "2025-11-23T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "前方",
+      "price": 4000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "一般",
+      "price": 2500,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
