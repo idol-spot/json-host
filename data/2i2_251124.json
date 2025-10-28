@@ -1,10 +1,10 @@
 {
-  "title": "#2i2主催対バン「64. episode調整中」",
-  "posterImageUrl": "",
+  "title": "#2i2主催対バン#2i2 produce 【64 ep.07】",
+  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/10/1761618549_2i2_64_ep07.png",
   "viewMode": "shows",
   "buttonText": "申し込む",
   "buttonText2": "",
-  "performersText": "#2i2 / #Mooove! / #もーうぇい",
+  "performersText": "#2i2 / #Mooove! / #もーうぇい / ICECREAM SCREAM",
   "pickupText": "コンビニ発券（セブンイレブン・ファミリーマート）",
   "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
   "contactAgency": "",
@@ -38,7 +38,7 @@
       "label": "先行抽選",
       "areas": [],
       "seats": [],
-      "startISO": "2025-10-28T21:00:00+09:00",
+      "startISO": "2025-10-29T21:00:00+09:00",
       "endISO": "2025-11-10T23:59:59+09:00"
     },
     {
