@@ -2,7 +2,7 @@
   "title": "Ma'Scar'Beat全国クラブツアー",
   "posterImageUrl": "",
   "viewMode": "shows",
-  "buttonText": "申し込む",
+  "buttonText": "",
   "buttonText2": "",
   "performersText": "",
   "pickupText": "コンビニ発券（セブンイレブン・ファミリーマート）",
@@ -42,11 +42,11 @@
     }
   ],
   "buyUrls": [
-    "https://idol-spot.tstar.jp/lots/events/57510/entry/56208/agreement",
-    "https://idol-spot.tstar.jp/lots/events/57510/entry/56218/agreement",
-    "https://idol-spot.tstar.jp/lots/events/57510/entry/56219/agreement",
-    "https://idol-spot.tstar.jp/lots/events/57510/entry/56220/agreement",
-    "https://idol-spot.tstar.jp/lots/events/57510/entry/56221/agreement"
+    "https://idol-spot.tstar.jp/cart/performances/353476/agreement",
+    "https://idol-spot.tstar.jp/cart/performances/353477/agreement",
+    "https://idol-spot.tstar.jp/cart/performances/353478/agreement",
+    "https://idol-spot.tstar.jp/cart/performances/353479/agreement",
+    "https://idol-spot.tstar.jp/cart/performances/353480/agreement"
   ],
   "buyUrls2": [
     "",
