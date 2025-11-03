@@ -51,7 +51,7 @@
   ],
   "tickets": [
     {
-      "name": "A席",
+      "name": "A席(写メ券付)",
       "price": 1500,
       "buyUrl": "#purchase"
     },
@@ -73,5 +73,6 @@
   ]
 
 }
+
 
 
