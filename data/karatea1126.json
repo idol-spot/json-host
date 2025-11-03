@@ -2,8 +2,8 @@
   "title": "衛星とカラテア『超 月光通信 vol.7』",
   "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/11/1762057960_S__15794194_0.jpg",
   "viewMode": "shows",
-  "buttonText": "【A席・撮影席】申し込む",
-  "buttonText2": "【B席】申し込む",
+  "buttonText": "申し込む",
+  "buttonText2": "",
   "performersText": "",
   "pickupText": "楽天チケットアプリ受取（スマートフォン）",
   "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
@@ -25,7 +25,7 @@
     "https://idol-spot.tstar.jp/lots/events/57719/entry/56421/agreement"
   ],
   "buyUrls2": [
-    "https://idol-spot.tstar.jp/lots/events/57719/entry/56424/agreement"
+    ""
   ],
   "showTimes": [
     {
@@ -56,8 +56,8 @@
       "buyUrl": "#purchase"
     },
     {
-      "name": "B席",
-      "price": 0,
+      "name": "B席(ﾄﾞﾘﾝｸ代事前徴収)",
+      "price": 600,
       "buyUrl": "#purchase"
     },
     {
@@ -73,6 +73,7 @@
   ]
 
 }
+
 
 
 
