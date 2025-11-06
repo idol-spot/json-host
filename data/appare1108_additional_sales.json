@@ -23,7 +23,9 @@
   ],
 
   "statusOverrides": {
-    "forceSoldOutAll": true
+    "seatStatus": {
+    "一般チケット": "soldout"
+  }
   },
 
   "sales": [
