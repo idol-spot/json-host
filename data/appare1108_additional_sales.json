@@ -24,7 +24,8 @@
 
   "statusOverrides": {
     "seatStatus": {
-    "一般チケット": "soldout"
+      "前方チケット": "soldout",
+      "一般チケット": "soldout"
   }
   },
 
