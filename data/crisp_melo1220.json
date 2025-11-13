@@ -1,0 +1,57 @@
+{
+  "title": "Crisp Meloデビューワンマンライブ",
+  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/11/1763039049_Crisp_Melo_square.png",
+  "viewMode": "shows",
+  "buttonText": "",
+  "buttonText2": "",
+  "performersText": "",
+  "pickupText": "楽天チケットアプリ受取（スマートフォン）／コンビニ発券（セブンイレブン・ファミリーマート）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "Crisp Meloオフィシャル",
+  "contactTel": "https://tayori.com/f/crispmelo-official-faq/",
+  "contactTelHref": "https://tayori.com/f/crispmelo-official-faq/",
+  "contactHours": "",
+  "notesText": "[no-mark]本公演をご観覧されるにあたり、下記注意事項を必ずご確認いただきチケットをご購入ください。\n本注意事項は予告なく変更する場合がありますので予めご了承下さい。\n体調不良などにより出演者が変更となる場合がございますので予めご了承下さい。\n3歳以下は無料、4歳以上はチケットが必要となります。\n当日は係員の指示に従ってご入場・ご退場ください。\n入場の際に本人確認の為に身分証明証をご提示いただく場合がございますので必ずご持参してください。\n主催者にてライブの撮影をさせていただきます。その際に観客席が映り込む場合がございますのでご了承ください。\nアルコール類の持ち込み、および飲酒をされてのご入場は禁止となります。酒気帯びと判断した場合はご入場をお断りします。会場内で発覚した場合も退場とさせていただきます。\n会場内でのお飲み物を摂取は問題ございませんが、お食事につきましては禁止となります。\nダイブ、サーフ、リフト、モッシュ等危険な行為、ライブの進行を妨げる行為は一切禁止とさせて頂きます。スタッフの判断にてご退場いただく場合があります。\n公演中の場内での撮影に関してはスタッフの指示にしたがって下さい。\nファンレターBOX（ハガキサイズ用）を会場にご用意させていただきます。プレゼントはご辞退させていただきます。",
+  "dates": [
+    "2025-12-20T17:00:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "RED° TOKYO TOWER “RED° SKY STADIUM”",
+      "prefecture": "東京"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/cart/performances/353911/agreement"
+  ],
+  "buyUrls2": [
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "16:30",
+      "start": "17:00"
+    }
+  ],
+  "sales": [
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2025-12-01T17:00:00+09:00",
+      "endISO": "2025-12-19T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "一般チケット",
+      "price": 1000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "女性エリアチケット",
+      "price": 1000,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
