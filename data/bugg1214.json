@@ -2,7 +2,7 @@
   "title": "buGG『The First Glitch~新章の始まり~』",
   "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/11/1762337765_S__19103809.jpg",
   "viewMode": "shows",
-  "buttonText": "申し込む",
+  "buttonText": "",
   "buttonText2": "",
   "performersText": "",
   "pickupText": "楽天チケットアプリ受取（スマートフォン）",
@@ -22,7 +22,7 @@
     }
   ],
   "buyUrls": [
-    "https://idol-spot.tstar.jp/lots/events/57740/entry/56506/agreement"
+    "https://idol-spot.tstar.jp/cart/performances/354207/agreement"
   ],
   "buyUrls2": [
     ""
@@ -63,3 +63,4 @@
   ]
 
 }
+
