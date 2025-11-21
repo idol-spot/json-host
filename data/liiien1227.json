@@ -1,0 +1,80 @@
+{
+  "title": "LIIiEN LAST LIVE",
+  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/10/1759309416_20250701_LIIiEN_0001.jpg",
+  "viewMode": "shows",
+  "buttonText": "申し込む",
+  "buttonText2": "",
+  "performersText": "",
+  "pickupText": "楽天チケットアプリ受取（スマートフォン）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "LIIiEN問い合わせフォーム",
+  "contactTel": "liiien.info@gmail.com",
+  "contactTelHref": "mailto:liiien.info@gmail.com",
+  "contactHours": "",
+  "notesText": "整理番号順入場\n入場時、別途ドリンク代必要",
+  "dates": [
+    "2025-12-27T13:30:00+09:00",
+    "2025-12-27T18:00:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "渋谷WWW",
+      "prefecture": "東京"
+    },
+    {
+      "name": "渋谷WWW",
+      "prefecture": "東京"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/lots/events/57890/entry/56690/agreement",
+    "https://idol-spot.tstar.jp/lots/events/57890/entry/56691/agreement"
+  ],
+  "buyUrls2": [
+    "",
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "13:00",
+      "start": "13:30"
+    },
+    {
+      "open": "17:30",
+      "start": "18:00"
+    }
+  ],
+  "sales": [
+    {
+      "label": "オフィシャル先行抽選",
+      "areas": [],
+      "seats": [],
+      "startISO": "2025-12-01T21:00:00+09:00",
+      "endISO": "2025-12-03T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2025-12-07T10:00:00+09:00",
+      "endISO": "2025-12-26T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "最前列チケット（1部）",
+      "price": 10000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "VIP（2部）",
+      "price": 30000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "一般チケット",
+      "price": 5000,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
