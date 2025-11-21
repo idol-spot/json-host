@@ -1,8 +1,8 @@
 {
   "title": "アンスリューム『とらべりゅーむ!!!!!!!ASIA』",
-  "posterImageUrl": "",
+  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/11/1763705069_anthurium_tour_final_0312.jpg",
   "viewMode": "shows",
-  "buttonText": "",
+  "buttonText": "申し込む",
   "buttonText2": "",
   "performersText": "",
   "pickupText": "コンビニ発券（セブンイレブン・ファミリーマート）",
@@ -98,4 +98,5 @@
       "buyUrl": "#purchase"
     }
   ]
+
 }
