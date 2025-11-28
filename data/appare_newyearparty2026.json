@@ -1,0 +1,99 @@
+{
+  "title": "Appare! NEW YEAR PARTY! 2026",
+  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/11/1764309937_Appare_NEW_YEAR_PARTY_2026.jpg",
+  "viewMode": "shows",
+  "buttonText": "【前方チケット】 購入する",
+  "buttonText2": "【一般チケット】 購入する",
+  "performersText": "",
+  "pickupText": "楽天チケットアプリ受取（スマートフォン）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "株式会社PLAYYTE",
+  "contactTel": "03-6300-9000",
+  "contactTelHref": "tel:0363009000",
+  "contactHours": "",
+  "notesText": "整理番号順入場\nモッシュ、リフト、ダイブなど、周囲のお客様と接触する行為や他のお客様の迷惑となる行為は禁止。\nご自身の観覧スペース以外に荷物を置いたり、肩幅を超えて腕を広げるなど、フロア内の場所取り行為は禁止。\nそのような行為が見受けられた場合はスタッフよりお声掛けさせて頂く場合がございます。ルールをお守り頂けないお客様に対しては、退場処分とさせて頂きます。\n転売禁止。\n再入場、飲食物の持ち込み禁止。\nアルコール販売無し。泥酔者の入場不可。\n本公演が中止にならない限り払い戻し等の対応は不可",
+  "dates": [
+    "2026-01-12T15:00:00+09:00",
+    "2026-01-18T13:00:00+09:00",
+    "2026-01-25T17:00:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "Zepp Namba",
+      "prefecture": "大阪"
+    },
+    {
+      "name": "Zephyr Hall",
+      "prefecture": "愛知"
+    },
+    {
+      "name": "品川インターシティホール",
+      "prefecture": "東京"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/lots/events/57933/entry/56715/agreement",
+    "https://idol-spot.tstar.jp/lots/events/57933/entry/56716/agreement",
+    "https://idol-spot.tstar.jp/lots/events/57933/entry/56717/agreement"
+  ],
+  "buyUrls2": [
+    "https://idol-spot.tstar.jp/cart/performances/354542/agreement",
+    "https://idol-spot.tstar.jp/cart/performances/354544/agreement",
+    "https://idol-spot.tstar.jp/cart/performances/354546/agreement"
+  ],
+  "showTimes": [
+    {
+      "open": "14:30",
+      "start": "15:00"
+    },
+    {
+      "open": "12:30",
+      "start": "13:00"
+    },
+    {
+      "open": "16:30",
+      "start": "17:00"
+    }
+  ],
+  "sales": [
+    {
+      "label": "先行抽選",
+      "areas": [],
+      "seats": [
+        "前方チケット"
+      ],
+      "startISO": "2025-11-28T19:00:00+09:00",
+      "endISO": "2025-12-28T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [
+        "一般チケット"
+      ],
+      "startISO": "2025-11-28T19:00:00+09:00",
+      "endISO": "2026-01-24T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [
+        "前方チケット"
+      ],
+      "startISO": "2025-12-29T19:00:00+09:00",
+      "endISO": "2026-01-24T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "前方チケット",
+      "price": 5000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "一般チケット",
+      "price": 600,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
