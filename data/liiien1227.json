@@ -2,7 +2,7 @@
   "title": "LIIiEN LAST LIVE",
   "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/10/1759309416_20250701_LIIiEN_0001.jpg",
   "viewMode": "shows",
-  "buttonText": "申し込む",
+  "buttonText": "",
   "buttonText2": "",
   "performersText": "",
   "pickupText": "楽天チケットアプリ受取（スマートフォン）",
@@ -58,16 +58,6 @@
   ],
   "tickets": [
     {
-      "name": "最前列チケット（1部）",
-      "price": 10000,
-      "buyUrl": "#purchase"
-    },
-    {
-      "name": "VIP（2部）",
-      "price": 30000,
-      "buyUrl": "#purchase"
-    },
-    {
       "name": "一般チケット",
       "price": 5000,
       "buyUrl": "#purchase"
@@ -75,3 +65,4 @@
   ]
 
 }
+
