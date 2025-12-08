@@ -1,40 +1,40 @@
 {
   "slides": [
     {
-      "href": "https://idol-spot.tstar.jp/event/rileaab/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/10/1759312939_2i2_last_tour.jpg",
-      "title": "#2i2 LAST TOUR 「Pages of Us」",
-      "cat": "12/6(土)・東京",
-      "badge": "NEW",
-      "fit": "cover",
-      "until": "2025-12-05T23:59:59+09:00"
-    },
-    {
-      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rt4caab/",
-      "img": "https://tsimg.azureedge.net/img/2025/09/1758029203_eiseitokaratea_StarryJourney.jpg",
-      "title": "衛星とカラテア 全国ツアー2025「Starry Journey」",
-      "cat": "9/25(木)-11/2(日)・全国",
+      "href": "https://idol-spot.tstar.jp/event/rig5aab/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/11/1763715701_festive_onemanlive_0105.jpg",
+      "title": "FES☆TIVEワンマン『アイドル＝』",
+      "cat": "1/5(月)・東京",
       "badge": "HOT",
       "fit": "cover",
-      "until": "2025-11-01T23:59:59+09:00"
+      "until": "2026-01-04T23:59:59+09:00"
     },
     {
-      "href": "https://idol-spot.tstar.jp/event/ripyaag/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/11/1762596488_aoisuzu_birthday2025.png",
-      "title": "Appare! 藍井すず生誕祭2025",
-      "cat": "12/7(日)・東京",
-      "badge": "NEW",
+      "href": "https://idol-spot.tstar.jp/event/rileaah/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/11/1763705069_anthurium_tour_final_0312.jpg",
+      "title": "アンスリューム『とらべりゅーむ!!!!!!!ASIA』",
+      "cat": "3/12(木)・東京",
+      "badge": "HOT",
       "fit": "cover",
-      "until": "2025-12-06T23:59:59+09:00"
+      "until": "2026-03-11T23:59:59+09:00"
     },
     {
-      "href": "https://idol-spot.tstar.jp/event/rileaaf/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/10/1761618549_2i2_64_ep07.png",
-      "title": "#2i2主催対バン#2i2 produce 【64 ep.07】",
-      "cat": "11/24(月)・北海道",
-      "badge": "NEW",
+      "href": "https://idol-spot.tstar.jp/event/riacaaa/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/11/1763039049_Crisp_Melo_square.png",
+      "title": "Crisp Meloデビューワンマンライブ",
+      "cat": "12/20(土)・東京",
+      "badge": "SOON",
+      "fit": "contain",
+      "until": "2025-12-21T23:59:59+09:00"
+    },
+    {
+      "href": "https://idol-spot.tstar.jp/event/ri6saae/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/11/1762337765_S__19103809.jpg",
+      "title": "buGG『The First Glitch~新章の始まり~』",
+      "cat": "12/14(日)・東京",
+      "badge": "SOON",
       "fit": "cover",
-      "until": "2025-11-23T23:59:59+09:00"
+      "until": "2025-12-13T23:59:59+09:00"
     },
     {
       "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyaem/",
@@ -44,24 +44,6 @@
       "badge": "HOT",
       "fit": "cover",
       "until": "2025-12-27T23:59:59+09:00"
-    },
-    {
-      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtle026/",
-      "img": "https://tsimg.azureedge.net/img/2025/09/1757481938_0910.jpg",
-      "title": "#ババババンビ 全国凱旋ツアー “咲・祈・彩・馬・光 ’’ノ宴25-26",
-      "cat": "10/25(土)-2026/1/31(土)・全国",
-      "badge": "HOT",
-      "fit": "cover",
-      "until": "2026-01-30T23:59:59+09:00"
-    },
-    {
-      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rt4caad/",
-      "img": "https://tsimg.azureedge.net/img/2025/11/1762163969_web_webflyer_fix.png",
-      "title": "衛星とカラテア ワンマンライブ『 小さな幸せの密造 』",
-      "cat": "11/18(火)・東京",
-      "badge": "HOT",
-      "fit": "contain",
-      "until": "2025-11-17T23:59:59+09:00"
     }
   ]
 }
