@@ -1,0 +1,57 @@
+{
+  "title": "INUWASI LAST LIVE 2025 \" 狗納 \"",
+  "posterImageUrl": "",
+  "viewMode": "tickets",
+  "buttonText": "",
+  "buttonText2": "",
+  "performersText": "",
+  "pickupText": "コンビニ発券（セブンイレブン・ファミリーマート）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "MAPLE INC.",
+  "contactTel": "info@mapleinc.jp",
+  "contactTelHref": "mailto:info@mapleinc.jp",
+  "contactHours": "",
+  "notesText": "Aチケットでご入場の方は別途1D代必要 / Bチケットでご入場の方は1D代事前徴収\n各券種別整理番号順でのご入場となります。\n未就学児入場不可。\nお一人様4枚まで。\n複数回購入された場合、全て当選となる場合もございます。その場合、キャンセルはできかねます。また、即時決済となりますので予めご了承ください。\n出演者は都合により変更になる場合がございます。その場合のチケット払い戻しは行いません。予めご了承ください。\nリフト、モッシュ、サーフ等他のお客様にご迷惑になる行為、危険行為は一切禁止とさせていただきます。スタッフの注意をお聞きになられない場合、退場とさせていただきます。\nライブ中の静止画撮影可能。動画撮影スマホのみ可能。静止画撮影のお客様は一脚三脚等、周りのお客様にご迷惑となる機材の持ち込みはご遠慮下さい。\n場内座り込み禁止。\n荷物を床に置いての場所取り行為禁止。\n他のお客様の迷惑となる行為は全面禁止。ルールをお守りいただけないお客様に対しては、退場処分とさせていただきます。",
+  "dates": [
+    "2025-12-30T12:00:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "Spotify O-WEST",
+      "prefecture": "東京"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/cart/performances/355294/agreement"
+  ],
+  "buyUrls2": [
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "11:30",
+      "start": "12:00"
+    }
+  ],
+  "sales": [
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2025-12-20T21:00:00+09:00",
+      "endISO": "2025-12-29T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "スタンディングA",
+      "price": 5000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "スタンディングB",
+      "price": 600,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
