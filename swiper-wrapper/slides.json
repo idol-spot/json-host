@@ -27,23 +27,32 @@
       "fit": "contain",
       "until": "2025-12-21T23:59:59+09:00"
     },
-    {
-      "href": "https://idol-spot.tstar.jp/event/ri6saae/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/11/1762337765_S__19103809.jpg",
-      "title": "buGG『The First Glitch~新章の始まり~』",
-      "cat": "12/14(日)・東京",
-      "badge": "SOON",
-      "fit": "cover",
-      "until": "2025-12-13T23:59:59+09:00"
-    },
-    {
-      "href": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyaem/",
-      "img": "https://tsimg.azureedge.net/img/2025/07/0fc8f0f921f3df8cac0ec2c61955aa6e.jpg",
-      "title": "#Appareいったれ横アリ アリったけ！夢に大爆走ツアー2025",
-      "cat": "8/30(土)-12/27(土)・全国",
+       {
+      "href": "https://idol-spot.tstar.jp/event/ri6saaf/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/12/1764836352_chou_gekkou_tsuushin_vol8.jpg",
+      "title": "衛星とカラテア『超 月光通信 vol.8』",
+      "cat": "1/6(火)・東京",
       "badge": "HOT",
       "fit": "cover",
-      "until": "2025-12-27T23:59:59+09:00"
+      "until": "2026-01-05T23:59:59+09:00"
+    },
+    {
+      "href": "https://idol-spot.tstar.jp/event/rig5aae/",
+      "img": "	https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/12/1765285305_festive_250109.jpg",
+      "title": "FES☆TIVE 星乃ななみ生誕祭",
+      "cat": "1/9(金)・東京",
+      "badge": "NEW",
+      "fit": "cover",
+      "until": "2026-01-08T23:59:59+09:00"
+    },
+    {
+      "href": "https://idol-spot.tstar.jp/event/ripyaai/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/11…2025/11/1764324181_Appare_NEW_YEAR_PARTY_2026.jpg",
+      "title": "Appare! NEW YEAR PARTY! 2026",
+      "cat": "1/12(月)-1/25(日)・全国",
+      "badge": "NEW",
+      "fit": "cover",
+      "until": "2026-01-24T23:59:59+09:00"
     }
   ]
 }
