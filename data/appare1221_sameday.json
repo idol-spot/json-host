@@ -22,10 +22,10 @@
     }
   ],
   "buyUrls": [
-    "https://idol-spot.tstar.jp/cart/performances/354945/agreement"
+    "https://idol-spot.tstar.jp/cart/performances/354102/agreement"
   ],
   "buyUrls2": [
-    "https://idol-spot.tstar.jp/cart/performances/354102/agreement"
+    ""
   ],
   "showTimes": [
     {
@@ -45,11 +45,6 @@
     }
   ],
   "tickets": [
-    {
-      "name": "前方チケット",
-      "price": 5000,
-      "buyUrl": "https://idol-spot.tstar.jp/cart/performances/354945/agreement"
-    },
     {
       "name": "一般チケット",
       "price": 600,
