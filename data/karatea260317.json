@@ -1,0 +1,69 @@
+{
+  "title": "衛星とカラテア「久木田菜々夏 卒業ライブ」",
+  "posterImageUrl": "",
+  "viewMode": "shows",
+  "buttonText": "",
+  "buttonText2": "",
+  "performersText": "",
+  "pickupText": "楽天チケットアプリ受取（スマートフォン）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "衛星とカラテア 公式info",
+  "contactTel": "eiseitokaratea.info@gmail.com",
+  "contactTelHref": "mailto:eiseitokaratea.info@gmail.com",
+  "contactHours": "",
+  "notesText": "入場時、別途ドリンク代必要\n入場順：整理番号順(SS→S→A)\n飲食物の持ち込み禁止。\n荷物を置いての場所取り禁止。スタッフが移動する場合がございますので大きなお荷物はコインロッカー等をご利用ください。\n場内座り込み禁止。\nリフト、サーフ、モッシュなどの危険行為は一切禁止です。\nイベント会場近隣での溜まり・喫煙・飲食等はご遠慮ください。\nお客様同士の争いごとが発生した場合、いかなる理由でもご入場をお断りさせて頂きます。その場合、チケット返金は行いません。",
+  "dates": [
+    "2026-03-17T18:30:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "Spotify O-EAST",
+      "prefecture": "東京"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/lots/events/58184/entry/57022/agreement"
+  ],
+  "buyUrls2": [
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "17:30",
+      "start": "18:30"
+    }
+  ],
+  "sales": [
+    {
+      "label": "プレイガイド先行抽選",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-01-16T20:00:00+09:00",
+      "endISO": "2026-02-01T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-02-03T20:00:00+09:00",
+      "endISO": "2026-03-16T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "SSチケット",
+      "price": 18000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "Sチケット",
+      "price": 9000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "Aチケット",
+      "price": 2500,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
