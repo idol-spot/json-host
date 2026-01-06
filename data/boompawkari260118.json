@@ -1,0 +1,70 @@
+{
+  "title": "チームブンパー(仮) FIRST DASH",
+  "posterImageUrl": "",
+  "viewMode": "shows",
+  "buttonText": "",
+  "buttonText2": "",
+  "performersText": "",
+  "pickupText": "楽天チケットアプリ受取（スマートフォン）／コンビニ発券（セブンイレブン・ファミリーマート）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "チームブンパー(仮)",
+  "contactTel": "https://x.com/boompawkari_sub?s=20",
+  "contactTelHref": "https://x.com/boompawkari_sub?s=20",
+  "contactHours": "",
+  "notesText": "入場時、別途ドリンク代必要\n整理番号順入場",
+  "dates": [
+    "2026-01-18T14:00:00+09:00",
+    "2026-01-18T18:30:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "秋葉原Venus",
+      "prefecture": "東京"
+    },
+    {
+      "name": "秋葉原Venus",
+      "prefecture": "東京"
+    }
+  ],
+  "buyUrls": [
+    "",
+    ""
+  ],
+  "buyUrls2": [
+    "",
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "13:30",
+      "start": "14:00"
+    },
+    {
+      "open": "18:00",
+      "start": "18:30"
+    }
+  ],
+  "sales": [
+    {
+      "label": "先行抽選",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-01-09T00:00:00+09:00",
+      "endISO": "2026-01-12T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-01-14T19:00:00+09:00",
+      "endISO": "2026-01-17T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "スタンディング",
+      "price": 4500,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
