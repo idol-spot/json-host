@@ -1,0 +1,69 @@
+{
+  "title": "白咲くるみ生誕記念イベント「くーたんのレベルアップ ～21歳のはじまり～」",
+  "posterImageUrl": "",
+  "viewMode": "shows",
+  "buttonText": "",
+  "buttonText2": "",
+  "performersText": "",
+  "pickupText": "楽天チケットアプリ受取（スマートフォン）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "衛星とカラテア 公式info",
+  "contactTel": "eiseitokaratea.info@gmail.com",
+  "contactTelHref": "mailto:eiseitokaratea.info@gmail.com",
+  "contactHours": "",
+  "notesText": "[no-mark]・VIPチケット ¥8,000\n[no-mark](前方エリア最優先入場/生誕メンバーポストカード/10秒動画券）\n[wrap]\n[no-mark]・Aチケット ¥5,000\n[no-mark](前方エリア優先入場/10秒動画券) \n[wrap]\n[no-mark]・Bチケット ¥2,500\n[wrap]\n※前方エリアあり、Bエリア内に女性エリア設置予定\n[wrap]\n[no-mark]【注意事項】\n入場時、ドリンク代をお支払い頂きます。\n入場順：整理番号順(VIP → A → B)\n飲食物の持ち込み禁止。\nアルコールの提供はございません。\n荷物を置いての場所取り禁止。放置している荷物はスタッフが移動する場合がございますので予めご了承ください。\nダイブ・リフト・モッシュ等の危険行為は禁止です。\nイベント会場近隣での溜まり・喫煙・飲食等はご遠慮ください。\nお客様同士の争いごとが発生した場合、いかなる理由でもチケットの没収、今後のご入場をお断りさせて頂きます。その場合、チケット返金は行いません。\nイベント中止あるいは延期しない限りチケットの払い戻し対応は行いません。予めご了承ください。\n車椅子でご来場の方は必ず事前にご連絡ください。\nお客様を含む会場内の映像・写真が公開される場合がございます。予めご了承ください。\n[wrap]\n[no-mark]【年齢制限】\n未就学児入場無料(別途1D代必要)。\n中学生以下の方のご入場は保護者の方の同伴が必要です。(チケット必要)",
+  "dates": [
+    "2026-02-24T19:15:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "Veats Shibuya",
+      "prefecture": "東京"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/lots/events/58278/entry/57086/agreement"
+  ],
+  "buyUrls2": [
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "18:45",
+      "start": "19:15"
+    }
+  ],
+  "sales": [
+    {
+      "label": "プレイガイド先行抽選",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-01-20T20:00:00+09:00",
+      "endISO": "2026-01-25T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-01-27T20:00:00+09:00",
+      "endISO": "2026-02-23T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "VIPチケット",
+      "price": 8000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "Aチケット",
+      "price": 5000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "Bチケット",
+      "price": 2500,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
