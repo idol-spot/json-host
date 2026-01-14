@@ -1,6 +1,6 @@
 {
   "title": "いにしえ永遠？1st live 〜greatなlove〜",
-  "posterImageUrl": "",
+  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/01/1768367187_inishietowa.jpg",
   "viewMode": "shows",
   "buttonText": "",
   "buttonText2": "",
@@ -11,7 +11,7 @@
   "contactTel": "info.inishietowa4@gmail.com",
   "contactTelHref": "mailto:info.inishietowa4@gmail.com",
   "contactHours": "",
-  "notesText": "[no-mark]前方チケット：自由席\n[no-mark]後方チケット：スタンディング\n[wrap]\n入場時、別途ドリンク代必要\n整理番号順入場\n小学生以上チケット必要/未就学児チケット不要",
+  "notesText": "入場時、別途ドリンク代必要\n整理番号順入場\n小学生以上チケット必要/未就学児チケット不要",
   "dates": [
     "2026-03-07T13:00:00+09:00",
     "2026-03-07T17:30:00+09:00"
@@ -58,16 +58,17 @@
   ],
   "tickets": [
     {
-      "name": "前方チケット",
+      "name": "前方椅子席",
       "price": 6500,
       "buyUrl": "#purchase"
     },
     {
-      "name": "後方チケット",
+      "name": "後方立ち席",
       "price": 5000,
       "buyUrl": "#purchase"
     }
   ]
 
 }
+
 
