@@ -4,7 +4,7 @@
   "viewMode": "shows",
   "buttonText": "",
   "buttonText2": "",
-  "performersText": "",
+  "performersText": "fav me / ドラマチックレコード / なみだ色の消しごむ / #Mooove! / log you / MyDearDarlin' / #よーよーよー / Toi Toi Toi",
   "pickupText": "コンビニ発券（セブンイレブン・ファミリーマート）",
   "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
   "contactAgency": "株式会社リーディ",
@@ -61,4 +61,5 @@
       "buyUrl": "#purchase"
     }
   ]
+
 }
