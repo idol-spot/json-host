@@ -1,0 +1,64 @@
+{
+  "title": "Chalca “IN COLOR”BANDSET",
+  "posterImageUrl": "",
+  "viewMode": "shows",
+  "buttonText": "",
+  "buttonText2": "",
+  "performersText": "",
+  "pickupText": "コンビニ発券（セブンイレブン・ファミリーマート）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "株式会社リーディ",
+  "contactTel": "customer@leadi.co.jp",
+  "contactTelHref": "mailto:customer@leadi.co.jp",
+  "contactHours": "",
+  "notesText": "[no-mark]【公演に関する注意事項】\n整理番号順入場(Sチケット→Aチケット)\n入場時、ドリンク代別途必要\n営利目的のチケット転売禁止\nアルコール類の持込、及び泥酔者の入場はお断りいたします。\nリフト、柵に登る、前列へ突っ込むの危険行為、ヤジ等、まわり\nのお客様の迷惑となる行為は全面禁止といたします。\nルールをお守りいただけないお客様へ対しては、退場処分とさせ\nていただきます。入場をお断り、ご退場いただく場合でもチケット代等の返金は一切\nいたしません。\n物販・特典会への参加には本公演のチケットが必要となります。\n[wrap]\n[no-mark]＜チケット発券開始日＞\n[no-mark]チケット発券開始日は、公演日1週間前となります。予め、ご了承ください。",
+  "dates": [
+    "2026-05-20T19:00:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "代官山UNIT",
+      "prefecture": "東京"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/lots/events/58397/entry/57163/agreement"
+  ],
+  "buyUrls2": [
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "18:30",
+      "start": "19:00"
+    }
+  ],
+  "sales": [
+    {
+      "label": "先行抽選",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-01-29T12:00:00+09:00",
+      "endISO": "2026-02-06T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-02-11T21:00:00+09:00",
+      "endISO": "2026-05-19T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "Sチケット",
+      "price": 10000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "Aチケット",
+      "price": 3500,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
