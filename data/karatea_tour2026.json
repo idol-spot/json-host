@@ -52,13 +52,13 @@
     }
   ],
   "buyUrls": [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
+    "https://idol-spot.tstar.jp/cart/performances/357400/agreement",
+    "https://idol-spot.tstar.jp/cart/performances/357401/agreement",
+    "https://idol-spot.tstar.jp/cart/performances/357402/agreement",
+    "https://idol-spot.tstar.jp/cart/performances/357403/agreement",
+    "https://idol-spot.tstar.jp/cart/performances/357404/agreement",
+    "https://idol-spot.tstar.jp/cart/performances/357405/agreement",
+    "https://idol-spot.tstar.jp/cart/performances/357406/agreement"
   ],
   "buyUrls2": [
     "",
@@ -185,6 +185,7 @@
   ]
 
 }
+
 
 
 
