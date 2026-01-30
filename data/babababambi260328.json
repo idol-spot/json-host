@@ -1,6 +1,6 @@
 {
   "title": "#ババババンビ -FINAL馬鹿騒ぎ-",
-  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/01/1769741853_G9AmqQgb0AELZyw.jpg",
+  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/01/1769771676_babababambi_final.jpg",
   "viewMode": "shows",
   "buttonText": "",
   "buttonText2": "",
@@ -51,7 +51,7 @@
   ],
   "tickets": [
     {
-      "name": "優先チケット",
+      "name": "優先チケット ※特典付き",
       "price": 25000,
       "buyUrl": "#purchase"
     },
@@ -61,4 +61,5 @@
       "buyUrl": "#purchase"
     }
   ]
+
 }
