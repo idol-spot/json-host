@@ -1,5 +1,9 @@
 {
   "title": "いにしえ永遠？1st live 〜greatなlove〜",
+  "showTitles": [
+    "【greatな部】いにしえ永遠？1st live 〜greatなlove〜",
+    "【love部】いにしえ永遠？1st live 〜greatなlove〜"
+  ],
   "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/01/1768367187_inishietowa.jpg",
   "viewMode": "shows",
   "buttonText": "",
@@ -70,5 +74,6 @@
   ]
 
 }
+
 
 
