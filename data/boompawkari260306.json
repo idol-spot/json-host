@@ -20,10 +20,6 @@
     {
       "name": "秋葉原Venus",
       "prefecture": "東京"
-    },
-    {
-      "name": "秋葉原Venus",
-      "prefecture": "東京"
     }
   ],
   "buyUrls": [
@@ -67,4 +63,5 @@
       "buyUrl": "#purchase"
     }
   ]
+
 }
