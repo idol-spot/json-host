@@ -66,7 +66,7 @@
     {
       "name": "Sチケット",
       "price": 10000,
-      "buyUrl": "https://idol-spot.tstar.jp/lots/events/58515/entry/57320/agreement"
+      "buyUrl": "https://idol-spot.tstar.jp/cart/performances/357978/agreement"
     },
     {
       "name": "一般チケット",
@@ -76,3 +76,4 @@
   ]
 
 }
+
