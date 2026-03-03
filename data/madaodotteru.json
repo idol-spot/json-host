@@ -1,5 +1,9 @@
 {
   "title": "まだ踊っている途中です。Vol.1",
+  "showTitles": [
+    "【1部】まだ踊っている途中です。Vol.1",
+    "【2部】まだ踊っている途中です。Vol.1"
+  ],
   "posterImageUrl": "",
   "viewMode": "shows",
   "buttonText": "",
@@ -77,4 +81,5 @@
       "buyUrl": "#purchase"
     }
   ]
+
 }
