@@ -5,7 +5,7 @@
   "buttonText": "",
   "buttonText2": "",
   "performersText": "",
-  "pickupText": "コンビニ発券（セブンイレブン・ファミリーマート）",
+  "pickupText": "楽天チケットアプリ受取（スマートフォン）",
   "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
   "contactAgency": "BLAZE GOTANDA",
   "contactTel": "03-6447-7727",
@@ -61,4 +61,5 @@
   ]
 
 }
+
 
