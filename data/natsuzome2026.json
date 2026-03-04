@@ -1,0 +1,75 @@
+{
+  "title": "NATSUZOME2026",
+  "posterImageUrl": "",
+  "viewMode": "shows",
+  "buttonText": "",
+  "buttonText2": "",
+  "performersText": "■3/28(土)\nアンスリューム / AZATOY / ギガLOVEアップビート / こみっきゅおん！ / CYNHN / Sweet Alley / すてねこキャッツ / W. / ドラマチックレコード / NANIMONO / ハルニシオン / FULIT BOX / フルコース / MAGICAL SPEC / metarium / Melty BeaR / RiNCENT♯ / ROOKIE♡ROOKIES\n\n■3/29(日)\nα＋ / amini / SAISON / Task have Fun / なんキニ！ / 虹色の飛行少女 / hakanai / ハルニシオン / フューチャーサイダー / Palette Parade / Hello Youth / Mirror,Mirror / myoujou / ラナキュラ / RAViDAVi / ワガママなラストノート",
+  "pickupText": "コンビニ発券（セブンイレブン・ファミリーマート）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "NATSUZOME 2026実行委員会",
+  "contactTel": "natsuzome.info@gmail.com",
+  "contactTelHref": "mailto:natsuzome.info@gmail.com",
+  "contactHours": "",
+  "notesText": "入場時、別途ドリンク代必要\nダイブ、サーフ、リフト、モッシュ等危険な行為は一切禁止とさせて頂きます。悪質な場合はご退場頂く場合が御座います。\n公演内容は急遽変更になる場合がございます。出演者変更に伴う払い戻しはございません。",
+  "dates": [
+    "2026-03-28T10:00:00+09:00",
+    "2026-03-29T10:00:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "稲毛海浜公園野外音楽堂",
+      "prefecture": "千葉"
+    },
+    {
+      "name": "稲毛海浜公園野外音楽堂",
+      "prefecture": "千葉"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/lots/events/58853/entry/57647/agreement",
+    "https://idol-spot.tstar.jp/lots/events/58853/entry/57647/agreement"
+  ],
+  "buyUrls2": [
+    "",
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "09:30",
+      "start": "10:00"
+    },
+    {
+      "open": "09:30",
+      "start": "10:00"
+    }
+  ],
+  "sales": [
+    {
+      "label": "先行抽選",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-03-06T20:00:00+09:00",
+      "endISO": "2026-03-16T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-03-18T18:00:00+09:00",
+      "endISO": "2026-03-28T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "最前VIPチケット",
+      "price": 10000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "通常チケット",
+      "price": 3000,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
