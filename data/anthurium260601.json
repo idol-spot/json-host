@@ -1,0 +1,74 @@
+{
+  "title": "アンスリューム 2026 ONE MAN LIVE",
+  "posterImageUrl": "",
+  "viewMode": "shows",
+  "buttonText": "",
+  "buttonText2": "",
+  "performersText": "",
+  "pickupText": "コンビニ発券（セブンイレブン・ファミリーマート）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "株式会社リーディ",
+  "contactTel": "customer@leadi.co.jp",
+  "contactTelHref": "mailto:customer@leadi.co.jp",
+  "contactHours": "",
+  "notesText": "[no-mark]・Sチケット（メンバー選択）\n最優先エリア、Tシャツ、希望メンバーアクリルスタンド、特典会ファストパス\n[wrap]\n[no-mark]・Aチケット（メンバー選択）\n希望メンバーアクリルスタンド\n[wrap]\n[no-mark]・Bチケット\n[wrap]\n[no-mark]・最大5人入れる！みんなでアンスチケット\n1枚で、5名入れるチケットです。（発券は1枚、ドリンク代は入場人数分必要）\n[wrap]\n[no-mark]【注意事項】\n整理番号順入場 / スタンディング / 入場別途ドリンク代必要\n[no-mark]入場順\n[no-mark]Sチケット→Aチケット→Bチケット→みんなでアンスチケット→手売りチケット（販売未定）\n女性限定エリア設置予定となります。\n小学生以上はチケットをご用意ください。\nダイブ、サーフ、リフト、モッシュ等危険な行為、ライブの進行を妨げる行為は一切禁止とさせていただきます。悪質な場合、スタッフの判断にてご退場いただく場合がございます。\n終演後は係員の指示に従ってご移動をお願いいたします。\n一部プレイガイド内容、公演内容、観覧ルールなどは適宜変更させていただく可能性がございます。\n[wrap]\n[no-mark]＜注意事項＞\nチケットの転売及び転売の為のご購入は固くお断りいたします。オークションサイト・金券ショップ・個人間での売買で購入されたチケットは、その有効性を保障いたしません。\nお席によっては演出の一部が見えない、または見えにくい場合がございます。予めご了承ください。",
+  "dates": [
+    "2026-06-01T18:30:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "Zepp DiverCity (TOKYO)",
+      "prefecture": "東京"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/lots/events/58924/entry/57687/agreement"
+  ],
+  "buyUrls2": [
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "17:30",
+      "start": "18:30"
+    }
+  ],
+  "sales": [
+    {
+      "label": "先行抽選",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-03-12T20:00:00+09:00",
+      "endISO": "2026-04-06T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-04-10T20:00:00+09:00",
+      "endISO": "2026-05-31T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "Sチケット",
+      "price": 20000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "Aチケット",
+      "price": 6000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "Bチケット",
+      "price": 500,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "みんなでアンスチケット",
+      "price": 1000,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
