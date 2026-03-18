@@ -1,40 +1,22 @@
 {
   "slides": [
     {
-      "href": "https://idol-spot.tstar.jp/event/ri6saaj/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/01/1767867310_karatea_tour2026.png",
-      "title": "衛星とカラテア「Dear Memories TOUR 2026」",
-      "cat": "2/7(土)-3/9(月)・全国",
+      "href": "https://idol-spot.tstar.jp/event/rileaap/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/01/1769771676_babababambi_final.jpg",
+      "title": "#ババババンビ -FINAL馬鹿騒ぎ-",
+      "cat": "3/28(土)・東京",
       "badge": "NEW",
       "fit": "cover",
-      "until": "2026-03-08T23:59:59+09:00"
+      "until": "2026-03-27T23:59:59+09:00"
     },
     {
-      "href": "https://idol-spot.tstar.jp/event/ris2aab/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/01/1768367187_inishietowa.jpg",
-      "title": "いにしえ永遠？1st live 〜greatなlove〜",
-      "cat": "3/7(土)・神奈川",
-      "badge": "NEW",
-      "fit": "contain",
-      "until": "2026-03-06T23:59:59+09:00"
-    },
-    {
-      "href": "https://idol-spot.tstar.jp/event/rileaah/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/11/1763705069_anthurium_tour_final_0312.jpg",
-      "title": "アンスリューム『とらべりゅーむ!!!!!!!ASIA』",
-      "cat": "3/12(木)・東京",
-      "badge": "HOT",
-      "fit": "cover",
-      "until": "2026-03-11T23:59:59+09:00"
-    },
-    {
-      "href": "https://idol-spot.tstar.jp/event/ri6saai/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/01/1767780179_eiseitokaratea260317.png",
-      "title": "衛星とカラテア 久木田菜々夏 卒業公演『Forever by your side』",
-      "cat": "3/17(火)・東京",
+      "href": "https://idol-spot.tstar.jp/event/ri6saam/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/02/1772085315_congrazie260404.jpeg",
+      "title": "コングラッチェ！ONE MAN LIVE『チェチェチェ大円祭』",
+      "cat": "4/4(土)・東京",
       "badge": "NEW",
       "fit": "cover",
-      "until": "2026-03-16T23:59:59+09:00"
+      "until": "2026-04-03T23:59:59+09:00"
     },
     {
       "href": "https://idol-spot.tstar.jp/event/rig5aag/",
@@ -55,13 +37,13 @@
       "until": "2026-03-28T23:59:59+09:00"
     },
     {
-      "href": "https://idol-spot.tstar.jp/event/ripyaai/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2025/11/1764324181_Appare_NEW_YEAR_PARTY_2026.jpg",
-      "title": "Appare! NEW YEAR PARTY! 2026",
-      "cat": "1/12(月)-1/25(日)・全国",
+      "href": "https://idol-spot.tstar.jp/event/ripyaao/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/03/1772583100_appare_10th_anniversary_tour.png",
+      "title": "Appare!10th ANNIVERSARY TOUR〜てんきゅー!!!!!!!!!〜",
+      "cat": "4/4(土)-7/17(金)・全国",
       "badge": "NEW",
       "fit": "cover",
-      "until": "2026-01-24T23:59:59+09:00"
+      "until": "2026-07-16T23:59:59+09:00"
     }
   ]
 }
