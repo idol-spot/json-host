@@ -1,0 +1,59 @@
+{
+  "title": "チームブンパー(仮) LIVE",
+  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/01/1767783339_boompawkari260118.jpg",
+  "viewMode": "shows",
+  "buttonText": "",
+  "buttonText2": "",
+  "performersText": "",
+  "pickupText": "楽天チケットアプリ受取（スマートフォン）／コンビニ発券（セブンイレブン・ファミリーマート）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "チームブンパー(仮)",
+  "contactTel": "https://x.com/boompawkari_sub?s=20",
+  "contactTelHref": "https://x.com/boompawkari_sub?s=20",
+  "contactHours": "",
+  "notesText": "[no-mark]【禁止事項】\n再入場は禁止となります。\nご入場時、別途ドリンク代が必要となります。\n泥酔者の入場は不可となります。\n入場をお断り、ご退場頂く場合でもチケット代等の返金は一切致しません。\n急遽出演者の変更が発生する場合がございます。その際の返金対応はございませんので予めご了承頂けますようご理解の程宜しくお願い致します。\n開場/開演時間は変更となる場合がございます。\n発熱のある方は入場をお断りする場合がございます。\nLIVE中の他のお客様への迷惑となる行為は禁止させていただいております。\n入場時に身分証名書確認をランダムに行う可能性がございます。ご提示頂けない場合、入場はお断りさせて頂く場合もございます。その場合、チケットの払い戻しは致しませんのでご了承ください。\n[wrap]\n[no-mark]■以下行為にあたる方はご退場いただく場合がございます。\nスタッフの指示に従っていただけない方。\n許可がない録音、動画撮影、写真撮影。\nLIVE中のダイブ、リフト、モッシュ、その他お客様の迷惑となる行為を行う方。",
+  "dates": [
+    "2026-04-17T18:30:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "横浜みなとみらいブロンテ",
+      "prefecture": "神奈川"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/lots/events/59113/entry/57863/agreement"
+  ],
+  "buyUrls2": [
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "18:00",
+      "start": "18:30"
+    }
+  ],
+  "sales": [
+    {
+      "label": "先行抽選",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-04-02T20:00:00+09:00",
+      "endISO": "2026-04-06T23:59:00+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-04-08T21:00:00+09:00",
+      "endISO": "2026-04-16T23:59:00+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "スタンディング",
+      "price": 5000,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
