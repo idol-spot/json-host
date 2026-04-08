@@ -51,6 +51,11 @@
   ],
   "tickets": [
     {
+      "name": "カメラチケット",
+      "price": 11000,
+      "buyUrl": "#purchase"
+    },
+    {
       "name": "優先チケット",
       "price": 6000,
       "buyUrl": "#purchase"
@@ -58,11 +63,6 @@
     {
       "name": "一般チケット",
       "price": 3000,
-      "buyUrl": "#purchase"
-    },
-    {
-      "name": "カメラチケット",
-      "price": 11000,
       "buyUrl": "#purchase"
     }
   ]
