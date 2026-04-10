@@ -1,47 +1,56 @@
 {
   "slides": [
     {
-      "href": "https://idol-spot.tstar.jp/event/rig5aaq/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/03/1773714678_miraie_flyer.png",
-      "title": "FES☆TIVE新体制お披露目 SEKAIE☆正式デビュー〜未来へ〜",
-      "cat": "4/6(月)・東京",
-      "badge": "NEW",
+      "href": "https://idol-spot.tstar.jp/event/rileaas/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/04/1775038868_%E8%B6%85NATSUZOME2026-%E3%83%95%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC.jpg",
+      "title": "超NATSUZOME 2026",
+      "cat": "7/4(土)-7/5(日)・千葉",
+      "badge": "",
       "fit": "cover",
-      "until": "2026-04-05T23:59:59+09:00"
+      "until": "2026-07-05T23:59:59+09:00"
     },
     {
-      "href": "https://idol-spot.tstar.jp/event/ri6saam/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/02/1772085315_congrazie260404.jpeg",
-      "title": "コングラッチェ！ONE MAN LIVE『チェチェチェ大円祭』",
-      "cat": "4/4(土)・東京",
-      "badge": "NEW",
+      "href": "https://idol-spot.tstar.jp/event/rileaau/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/04/1775625779_flyer_mooove_ANNvol3.png",
+      "title": "#Mooove! 3周年ライブ「#ムーブ記念日 vol.3」",
+      "cat": "5/23(土)・東京",
+      "badge": "",
+      "fit": "contain",
+      "until": "2026-05-22T23:59:59+09:00"
+    },
+    {
+      "href": "https://idol-spot.tstar.jp/event/rig5aat/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/04/1775480763_JamsCollection-ASIA-TOUR-2026.jpg",
+      "title": "JamsCollection ASIA TOUR 2026 -THE RISING ROAD-",
+      "cat": "4/30(木)・東京",
+      "badge": "",
       "fit": "cover",
-      "until": "2026-04-03T23:59:59+09:00"
+      "until": "2026-04-29T23:59:59+09:00"
     },
     {
       "href": "https://idol-spot.tstar.jp/event/rileaar/",
       "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/03/1773288386_anthurium260601.jpg",
       "title": "アンスリューム 2026 ONE MAN LIVE",
       "cat": "6/1(月)・東京",
-      "badge": "NEW",
+      "badge": "",
       "fit": "contain",
       "until": "2026-05-31T23:59:59+09:00"
     },
     {
-      "href": "https://idol-spot.tstar.jp/event/rileaan/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/01/1769655091_chalca260520_v2.jpg",
-      "title": "Chalca “IN COLOR”BANDSET",
-      "cat": "5/20(水)・東京",
-      "badge": "NEW",
+      "href": "https://idol-spot.tstar.jp/event/rig5aar/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/04/1775201584_S__80363527.jpg",
+      "title": "FES☆TIVE 仁科茉彩生誕祭",
+      "cat": "5/8(金)・東京",
+      "badge": "",
       "fit": "contain",
-      "until": "2026-05-19T23:59:59+09:00"
+      "until": "2026-05-07T23:59:59+09:00"
     },
     {
       "href": "https://idol-spot.tstar.jp/event/ripyaao/",
       "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/03/1772583100_appare_10th_anniversary_tour.png",
       "title": "Appare!10th ANNIVERSARY TOUR〜てんきゅー!!!!!!!!!〜",
       "cat": "4/4(土)-7/17(金)・全国",
-      "badge": "NEW",
+      "badge": "",
       "fit": "cover",
       "until": "2026-07-16T23:59:59+09:00"
     }
