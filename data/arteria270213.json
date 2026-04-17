@@ -11,7 +11,7 @@
   "contactTel": "",
   "contactTelHref": "",
   "contactHours": "",
-  "notesText": "※整理番号順入場\n※入場時、別途ドリンク代必要",
+  "notesText": "[no-mark]【SSチケット購入特典】\n[no-mark]・PIT後打ち上げ参加\n[no-mark]・SS非売品グッズ\n[no-mark]・サイン入りポスター\n[no-mark]・当日リハーサル見学\n[no-mark]・終演後楽屋挨拶\n[no-mark]・特典会ファストパス\n[no-mark]・全編撮影可\n[wrap]\n[no-mark]【Sチケット購入特典】\n[no-mark]・S非売品グッズ\n[no-mark]・サイン入りポスター\n[no-mark]・特典会ファストパス\n[no-mark]・全編撮影可\n[wrap]\n※整理番号順入場\n※入場時、別途ドリンク代必要",
   "dates": [
     "2027-02-13T16:00:00+09:00"
   ],
@@ -38,7 +38,7 @@
       "label": "一般発売",
       "areas": [],
       "seats": [],
-      "startISO": "2026-04-18T10:00:00+09:00",
+      "startISO": "2026-04-17T21:00:00+09:00",
       "endISO": "2027-02-12T23:59:59+09:00"
     }
   ],
