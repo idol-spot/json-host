@@ -2,8 +2,8 @@
   "title": "HIDE生誕祭",
   "posterImageUrl": "",
   "viewMode": "shows",
-  "buttonText": "【Aチケット】購入する",
-  "buttonText2": "【一般チケット】購入する",
+  "buttonText": "【一般チケット】購入する",
+  "buttonText2": "",
   "performersText": "",
   "pickupText": "楽天チケットアプリ受取（スマートフォン）／コンビニ発券（セブンイレブン・ファミリーマート）",
   "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
@@ -23,12 +23,12 @@
     }
   ],
   "buyUrls": [
-    "https://idol-spot.tstar.jp/cart/performances/362406/agreement",
-    "https://idol-spot.tstar.jp/cart/performances/362407/agreement"
-  ],
-  "buyUrls2": [
     "https://idol-spot.tstar.jp/lots/events/59262/entry/58067/agreement",
     "https://idol-spot.tstar.jp/lots/events/59262/entry/58071/agreement"
+  ],
+  "buyUrls2": [
+    "",
+    ""
   ],
   "showTimes": [
     {
