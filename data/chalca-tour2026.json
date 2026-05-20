@@ -1,0 +1,119 @@
+{
+  "title": "Chalca「BLOODLINE TOUR」",
+  "posterImageUrl": "",
+  "viewMode": "shows",
+  "buttonText": "",
+  "buttonText2": "",
+  "performersText": "【GUEST】\n7/18(土) 愛媛：lonlium\n8/8(土) 栃木：zanka\n8/22(土) 宮城：YOLOZ\n8/29(土) 愛知：XINXIN\n9/5(土) 神奈川：Quubi\n9/19(土) 福岡：JINKS",
+  "pickupText": "コンビニ発券（セブンイレブン・ファミリーマート）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "株式会社リーディ",
+  "contactTel": "customer@leadi.co.jp",
+  "contactTelHref": "mailto:customer@leadi.co.jp",
+  "contactHours": "",
+  "notesText": "整理番号順入場\n入場時、ドリンク代別途必要\n小学生以上チケット必要\n営利目的のチケット転売禁止\nアルコール類の持込、及び泥酔者の入場はお断りいたします。\nリフト、柵に登る、前列へ突っ込むの危険行為、ヤジ等、まわりのお客様の迷惑となる行為は全面禁止といたします。\nルールをお守りいただけないお客様へ対しては、退場処分とさせていただきます。\n入場をお断り、ご退場いただく場合でもチケット代等の返金は一切いたしません。\n物販・特典会への参加には本公演のチケットが必要となります。\n[wrap]\n[no-mark]＜チケット発券開始日＞\n[no-mark]チケット発券開始日は、公演日1週間前となります。予め、ご了承ください。",
+  "dates": [
+    "2026-07-18T13:30:00+09:00",
+    "2026-08-08T14:30:00+09:00",
+    "2026-08-22T17:30:00+09:00",
+    "2026-08-29T17:30:00+09:00",
+    "2026-09-05T17:30:00+09:00",
+    "2026-09-19T14:30:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "松山キティホール",
+      "prefecture": "愛媛"
+    },
+    {
+      "name": "HEAVEN'S ROCK 宇都宮 2/3(VJ-4)",
+      "prefecture": "栃木"
+    },
+    {
+      "name": "spaceZero",
+      "prefecture": "宮城"
+    },
+    {
+      "name": "RAD NINE",
+      "prefecture": "愛知"
+    },
+    {
+      "name": "横浜みなとみらいブロンテ",
+      "prefecture": "神奈川"
+    },
+    {
+      "name": "The Voodoo Lounge",
+      "prefecture": "福岡"
+    }
+  ],
+  "buyUrls": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "buyUrls2": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "13:00",
+      "start": "13:30"
+    },
+    {
+      "open": "14:00",
+      "start": "14:30"
+    },
+    {
+      "open": "17:00",
+      "start": "17:30"
+    },
+    {
+      "open": "17:00",
+      "start": "17:30"
+    },
+    {
+      "open": "17:00",
+      "start": "17:30"
+    },
+    {
+      "open": "14:00",
+      "start": "14:30"
+    }
+  ],
+  "sales": [
+    {
+      "label": "先行抽選",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-05-20T22:00:00+09:00",
+      "endISO": "2026-06-03T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [],
+      "startISO": "2026-06-05T20:00:00+09:00",
+      "endISO": "2026-09-18T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "優先Sチケット",
+      "price": 5000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "一般Aチケット",
+      "price": 3500,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
