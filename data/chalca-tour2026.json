@@ -106,12 +106,12 @@
   ],
   "tickets": [
     {
-      "name": "優先Sチケット",
+      "name": "優先チケット",
       "price": 5000,
       "buyUrl": "#purchase"
     },
     {
-      "name": "一般Aチケット",
+      "name": "一般チケット",
       "price": 3500,
       "buyUrl": "#purchase"
     }
