@@ -1,11 +1,10 @@
 {
-  "title": "水曜日にイベントやったら楽しくなる説
-",
+  "title": "水曜日にイベントやったら楽しくなる説",
   "posterImageUrl": "",
   "viewMode": "shows",
   "buttonText": "",
   "buttonText2": "",
-  "performersText": "",
+  "performersText": "SHIRAHAN / まさと / ゆら / HIDE / ふゆみ",
   "pickupText": "楽天チケットアプリ受取（スマートフォン）／コンビニ発券（セブンイレブン・ファミリーマート）",
   "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
   "contactAgency": "",
@@ -18,7 +17,7 @@
   ],
   "venues": [
     {
-      "name": "HOLIDAY SHINJUKU”,
+      "name": "HOLIDAY SHINJUKU",
       "prefecture": "東京"
     }
   ],
