@@ -1,0 +1,77 @@
+{
+  "title": "JamsCollection ASIA TOUR 2026 -THE RISING ROAD-",
+  "posterImageUrl": "",
+  "viewMode": "shows",
+  "buttonText": "",
+  "buttonText2": "",
+  "performersText": "JamsCollection\nα＋/Switch Drop/ドレスコード/Pixel Ribbon/Pretty Chuu/夜行性アミューズ/Onephony",
+  "pickupText": "楽天チケットアプリ受取（スマートフォン）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "（株）アップダンス・エンターテインメント",
+  "contactTel": "info@updance-ent.com",
+  "contactTelHref": "mailto:info@updance-ent.com",
+  "contactHours": "",
+  "notesText": "[no-mark]🔸チケット\n[no-mark]・前方エリア：¥5,000\n[no-mark]・一般エリア：¥2,000\n各種入場時に１DRINK代（￥600）別途 \n当日券は状況により後日ご案内となります。\n[wrap]\n[no-mark]【備考】\n[no-mark]・入場順は①前方チケット→②一般チケット、各整理番号順になります \n[no-mark]・再入場の場合は追加で1D代別途かかりますので 予めご了承ください。\n[wrap]\n[no-mark]【その他注意事項】\n[no-mark]⚠️前方チケットのお客様はご入場時に身分証明書でチケット購入者名との本人確認をする場合がございますので顔写真付き身分証を必ずご持参ください。\n顔写真付きの身分証書がない場合は身分を証明できるもの2枚必要となりますので、必ずお持ちいただけますようご協力よろしくお願い致します。万が一ご本人の確認が取れない場合はご入場をお断りする場合がございますので、予めご了承ください。\n[wrap]\n[no-mark]⚠️重複予約/転売/交換禁止 \n[no-mark]お一人様につきお申込みは1枚までとなります。 \n同一人物が複数枚のお申し込みをされても有効になるのは１枚のみになりますのでお気をつけくださいませ。\n[wrap]\n[no-mark]⚠️場内での取り置き禁止 \n[no-mark]場内椅子席を荷物での確保禁止となりますので、予めご了承の程よろしくお願い致します。\n[wrap]\n[no-mark]⚠️割り込み、場所取り禁止 \n[no-mark]皆様がご入場順に沿ってご観覧頂けますように後からご入場頂きました方の無理矢理な割り込み行為などは絶対にお辞めください。\n[wrap]\n[no-mark]以上、上記につきまして発覚次第、またはお客様から報告あり次第、退場/以降のLIVEやイベントのご入場を一切お断りする場合がありますので予めご了承ください。\n[wrap]\nお荷物、貴重品等はご自身でで管理をお願い致します。万が一紛失等が発生した場合でもイベント・会場は一切責任を負いかねますので予めご了承ください。\n[wrap]\n[no-mark]主催：（株）アップダンス・エンターテインメント \n[no-mark]お問い合わせ \n[no-mark]info@updance-ent.com \n[no-mark]チケットをお申し込み後のお問い合わせは、チケット番号も合わせて記載して下さい。",
+  "dates": [
+    "2026-07-08T17:30:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "ヒューリックホール東京",
+      "prefecture": "東京"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/lots/events/59754/entry/58838/agreement"
+  ],
+  "buyUrls2": [
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "16:45",
+      "start": "17:30"
+    }
+  ],
+  "sales": [
+    {
+      "label": "先行抽選",
+      "areas": [],
+      "seats": [
+        "前方エリア"
+      ],
+      "startISO": "2026-06-08T21:00:00+09:00",
+      "endISO": "2026-06-12T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [
+        "前方エリア"
+      ],
+      "startISO": "2026-06-15T21:00:00+09:00",
+      "endISO": "2026-07-07T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [],
+      "seats": [
+        "一般エリア"
+      ],
+      "startISO": "2026-06-15T21:30:00+09:00",
+      "endISO": "2026-07-07T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "前方エリア",
+      "price": 5000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "一般エリア",
+      "price": 2000,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
