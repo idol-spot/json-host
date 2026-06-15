@@ -22,7 +22,7 @@
     }
   ],
   "buyUrls": [
-    "https://idol-spot.tstar.jp/lots/events/59754/entry/58838/agreement"
+    "https://idol-spot.tstar.jp/cart/performances/365640/agreement"
   ],
   "buyUrls2": [
     ""
@@ -42,15 +42,6 @@
       ],
       "startISO": "2026-06-08T21:00:00+09:00",
       "endISO": "2026-06-13T23:59:59+09:00"
-    },
-    {
-      "label": "一般発売",
-      "areas": [],
-      "seats": [
-        "前方エリア"
-      ],
-      "startISO": "2026-06-15T21:00:00+09:00",
-      "endISO": "2026-07-07T23:59:59+09:00"
     },
     {
       "label": "一般発売",
