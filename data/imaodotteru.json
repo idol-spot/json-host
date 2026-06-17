@@ -1,5 +1,9 @@
 {
   "title": "いま踊っている最中です",
+  "showTitles": [
+    "【1部】いま踊っている最中です",
+    "【2部】いま踊っている最中です"
+  ],
   "posterImageUrl": "",
   "viewMode": "shows",
   "buttonText": "",
