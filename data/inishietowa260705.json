@@ -17,8 +17,8 @@
   ],
   "venues": [
     {
-      "name": "横浜みなとみらいブロンテ",
-      "prefecture": "神奈川"
+      "name": "LIVE STUDIO LODGE",
+      "prefecture": "東京"
     }
   ],
   "buyUrls": [
@@ -51,7 +51,7 @@
   ],
   "tickets": [
     {
-      "name": "スタンディング",
+      "name": "シーティング",
       "price": 4000,
       "buyUrl": "#purchase"
     }
