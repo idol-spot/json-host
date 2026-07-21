@@ -1,15 +1,6 @@
 {
   "slides": [
     {
-      "href": "https://idol-spot.tstar.jp/event/rileaas/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/04/1779243838_chonatsuzome2026_02.jpg",
-      "title": "超NATSUZOME 2026",
-      "cat": "7/4(土)-7/5(日)・千葉",
-      "badge": "",
-      "fit": "contain",
-      "until": "2026-07-05T23:59:59+09:00"
-    },
-    {
       "href": "https://idol-spot.tstar.jp/event/ri6saan/",
       "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/06/1780743847_crazymagnet_tour2026_v2.jpg",
       "title": "くれいじーまぐねっと SODA POP FESTIVAL TOUR 2026 summer",
@@ -19,22 +10,31 @@
       "until": "2026-08-25T23:59:59+09:00"
     },
     {
-      "href": "https://idol-spot.tstar.jp/event/rig5abb/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/06/1780724694_vol.5_1.jpg",
-      "title": "JamsCollection presents 女性限定LIVE 『Kitty Party -vol.5-』 Supported by Mii+",
-      "cat": "7/8(水)・東京",
+      "href": "https://idol-spot.tstar.jp/event/rickaaq/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/07/1784540938_260917_%E3%81%A1%E3%82%83%E3%83%BC%E3%82%80%E3%81%BD%E3%81%A3%E3%81%97%E3%82%85_flyer.png",
+      "title": "ちゃーむぽっしゅ ONE MAN LIVE TOUR『愛ちぃサークルツアー』 STAGE 3",
+      "cat": "9/17(木)・東京",
       "badge": "",
       "fit": "cover",
-      "until": "2026-07-07T23:59:59+09:00"
+      "until": "2026-09-16T23:59:59+09:00"
     },
     {
-      "href": "https://idol-spot.tstar.jp/event/ripyaao/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/07/1783133102_flyer_web.jpg",
-      "title": "Appare!10th ANNIVERSARY TOUR〜てんきゅー!!!!!!!!!〜",
-      "cat": "7/17(金)・東京",
+      "href": "https://idol-spot.tstar.jp/event/rig5abd/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/07/1783326898_bunnylacrew260818.jpg",
+      "title": "Bunny La Crew『月海まりな生誕祭2026』",
+      "cat": "8/18(火)・東京",
       "badge": "",
       "fit": "cover",
-      "until": "2026-07-16T23:59:59+09:00"
+      "until": "2026-08-17T23:59:59+09:00"
+    },
+    {
+      "href": "https://idol-spot.tstar.jp/event/rileaaz/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/06/1782801935_anthurium261212.jpg",
+      "title": "アンスリューム2026 ONE MAN LIVE WINTER『stellarium』",
+      "cat": "12/12(土)・東京",
+      "badge": "",
+      "fit": "cover",
+      "until": "2026-12-11T23:59:59+09:00"
     }
   ]
 }
