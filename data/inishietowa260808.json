@@ -62,12 +62,12 @@
   ],
   "tickets": [
     {
-      "name": "前方スタンディング",
+      "name": "前方椅子席",
       "price": 5800,
       "buyUrl": "#purchase"
     },
     {
-      "name": "後方スタンディング",
+      "name": "後方立ち見",
       "price": 3500,
       "buyUrl": "#purchase"
     }
