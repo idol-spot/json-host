@@ -1,6 +1,10 @@
 {
   "title": "いにしえ永遠？定期ライブ〜夏祭りとは？〜",
-  "posterImageUrl": "",
+  "showTitles": [
+    "【1部】いにしえ永遠？定期ライブ〜夏祭りとは？〜",
+    "【2部】いにしえ永遠？定期ライブ〜夏祭りとは？〜"
+  ],
+  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/01/1768367187_inishietowa.jpg",
   "viewMode": "shows",
   "buttonText": "",
   "buttonText2": "",
