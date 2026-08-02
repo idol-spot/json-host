@@ -20,10 +20,6 @@
     {
       "name": "HOLIDAY SHINJUKU",
       "prefecture": "東京"
-    },
-    {
-      "name": "HOLIDAY SHINJUKU",
-      "prefecture": "東京"
     }
   ],
   "buyUrls": [
@@ -36,11 +32,11 @@
   ],
   "showTimes": [
     {
-      "open": "12:30",
+      "open": "12:45",
       "start": "13:00"
     },
     {
-      "open": "16:30",
+      "open": "16:45",
       "start": "17:00"
     }
   ],
