@@ -1,5 +1,5 @@
 {
-  "title": "衛星とカラテア ワンマンライブ",
+  "title": "衛星とカラテア 全国ツアー2026",
   "posterImageUrl": "",
   "viewMode": "shows",
   "buttonText": "",
@@ -21,23 +21,23 @@
   ],
   "venues": [
     {
-      "name": "EX THEATER ROPPONGI",
+      "name": "ROCKTOWN",
       "prefecture": "大阪"
     },
     {
-      "name": "EX THEATER ROPPONGI",
+      "name": "仙台darwin",
       "prefecture": "宮城"
     },
     {
-      "name": "EX THEATER ROPPONGI",
+      "name": "LIVE HOUSE DRUM Be-7",
       "prefecture": "長崎"
     },
     {
-      "name": "EX THEATER ROPPONGI",
+      "name": "X-HALL -ZEN-",
       "prefecture": "愛知"
     },
     {
-      "name": "EX THEATER ROPPONGI",
+      "name": "東京ドームシティ ラクーアガーデンステージ",
       "prefecture": "東京"
     }
   ],
