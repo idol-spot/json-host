@@ -3,7 +3,7 @@
   "posterImageUrl": "",
   "viewMode": "shows",
   "buttonText": "",
-  "buttonText2": "",
+  "buttonText2": "【お試しチケット】購入する",
   "performersText": "【GUEST】\r\n9/19(土) 福岡：JINKS",
   "pickupText": "コンビニ発券（セブンイレブン・ファミリーマート）",
   "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
@@ -32,7 +32,7 @@
   ],
   "buyUrls2": [
     "",
-    ""
+    "https://ticket.rakuten.co.jp/cart/performances/369792/agreement"
   ],
   "showTimes": [
     {
