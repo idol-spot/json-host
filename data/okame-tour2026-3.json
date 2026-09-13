@@ -1,5 +1,9 @@
 {
-  "title": "おかめ ファンミーティング Every+One",
+  "title": "おかめワンマンLIVE - TOUR EDITION - Back to you",
+  "showTitles": [
+    "〔9/23(水・祝) 13:30｜愛知〕おかめワンマンLIVE - TOUR EDITION - Back to you",
+    "〔9/23(水・祝) 18:30｜愛知〕おかめワンマンLIVE - TOUR EDITION - Back to you"
+  ],
   "posterImageUrl": "",
   "viewMode": "shows",
   "buttonText": "",
@@ -17,10 +21,6 @@
     "2026-09-23T18:30:00+09:00"
   ],
   "venues": [
-    {
-      "name": "SPADE BOX",
-      "prefecture": "愛知"
-    },
     {
       "name": "SPADE BOX",
       "prefecture": "愛知"
