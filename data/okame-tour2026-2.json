@@ -1,5 +1,15 @@
 {
   "title": "おかめ ファンミーティング Every+One",
+  "showTitles": [
+    "〔9/23(水・祝) 13:30｜愛知〕おかめワンマンLIVE - TOUR EDITION - Back to you",
+    "〔9/23(水・祝) 18:30｜愛知〕おかめワンマンLIVE - TOUR EDITION - Back to you",
+    "〔10/24(土) 13:30｜大阪〕おかめワンマンLIVE - TOUR EDITION - Back to you",
+    "〔10/24(土) 18:30｜大阪〕おかめワンマンLIVE - TOUR EDITION - Back to you",
+    "〔11/7(土) 13:30｜福岡〕おかめワンマンLIVE - TOUR EDITION - Back to you",
+    "〔11/7(土) 18:30｜福岡〕おかめワンマンLIVE - TOUR EDITION - Back to you",
+    "〔11/23(月・祝) 13:30｜宮城〕おかめワンマンLIVE - TOUR EDITION - Back to you",
+    "〔11/23(月・祝) 18:30｜宮城〕おかめワンマンLIVE - TOUR EDITION - Back to you"
+  ],
   "posterImageUrl": "",
   "viewMode": "shows",
   "buttonText": "",
