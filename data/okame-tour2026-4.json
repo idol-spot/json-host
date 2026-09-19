@@ -62,10 +62,5 @@
       "price": 4500,
       "buyUrl": "#purchase"
     }
-  ],
-  "statusOverrides": [
-    "seatStatus": {
-      "*": "soldout"
-    }
   ]
 }
