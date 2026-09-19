@@ -4,9 +4,7 @@
     "〔9/23(水・祝) 13:30｜愛知〕おかめワンマンLIVE - TOUR EDITION - Back to you",
     "〔9/23(水・祝) 18:30｜愛知〕おかめワンマンLIVE - TOUR EDITION - Back to you"
   ],
-  "statusOverrides": {
-    "all": "soldout"
-  },
+  "showsSoldOut": [true, true],
   "posterImageUrl": "",
   "viewMode": "shows",
   "buttonText": "",
