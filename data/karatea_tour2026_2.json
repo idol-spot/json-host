@@ -1,0 +1,123 @@
+{
+  "title": "衛星とカラテア 全国ツアー「HELLO, NEW STAR!!」",
+  "posterImageUrl": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/08/1787570144_w3000px20260824_EISEI-TO-KARATEA-National-Tour_flyer.png",
+  "viewMode": "shows",
+  "buttonText": "",
+  "buttonText2": "",
+  "performersText": "",
+  "pickupText": "楽天チケットアプリ受取（スマートフォン）",
+  "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
+  "contactAgency": "衛星とカラテア 公式info",
+  "contactTel": "eiseitokaratea.info@gmail.com",
+  "contactTelHref": "mailto:eiseitokaratea.info@gmail.com",
+  "contactHours": "",
+  "notesText": "[no-mark]【長崎・愛知公演】\r\n[no-mark]⚫Sチケット ¥6,000\r\n[no-mark]（Sエリア入場 / 各地限定メッセージ付きポストカード(ランダム5種） / 写メ券 付き）\r\n[wrap]\r\n[no-mark]⚫Aチケット ¥2,500（写メ券 付き）\r\n[wrap]\r\n[no-mark]・入場時、ドリンク代をお支払い頂きます。\r\n[no-mark]・入場順：整理番号順(S → A → B)\r\n[no-mark]・観覧エリア分けあり(Sエリア/一般エリア)\r\n[no-mark]・一般エリア内に、女性エリア・初心者エリア設置予定。\r\n[wrap]\r\n[no-mark]【東京公演】\r\n[no-mark]●Aチケット　¥13,000 （100枚想定）※特典あり\r\n[no-mark](オリジナルTシャツ / チェキサイン券 1枚 / 前方エリア入場 / 特典会参加権利)\r\n[wrap]\r\n[no-mark]●Bチケット　¥5,000 （100枚想定）※特典あり\r\n[no-mark](特典会参加権利 / フリーエリア優先入場)\r\n[wrap]\r\n[no-mark]・観覧エリア分けあり(前方エリア / フリーエリア / 女性エリア(フリーエリア内))\r\n[no-mark]・前方エリア内は、Aチケットの方は整理番号順でご案内致します。\r\n[no-mark]・フリーエリア内は、Bチケットの方から優先的に整理番号順にご案内致します。\r\n[wrap]\r\n[no-mark]【注意事項】\r\n飲食物の持ち込み禁止。\r\nアルコールの提供はございません。\r\n荷物を置いての場所取り禁止。放置している荷物はスタッフが移動する場合がございますので予めご了承ください。\r\nダイブ・リフト・モッシュ等の危険行為は禁止です。\r\nイベント会場近隣での溜まり・喫煙・飲食等はご遠慮ください。\r\nお客様同士の争いごとが発生した場合、いかなる理由でもチケットの没収、今後のご入場をお断りさせて頂きます。その場合、チケット返金は行いません。\r\nイベント中止あるいは延期しない限りチケットの払い戻し対応は行いません。予めご了承ください。\r\n車椅子でご来場の方は必ず事前にご連絡ください。\r\nお客様を含む会場内の映像・写真が公開される場合がございます。予めご了承ください。\r\n[wrap]\r\n[no-mark]【年齢制限】\r\n未就学児入場無料(別途1D代必要)。\r\n中学生以下の方のご入場は保護者の方の同伴が必要です。(チケット必要)",
+  "dates": [
+    "2026-10-03T17:00:00+09:00",
+    "2026-10-24T19:00:00+09:00",
+    "2026-11-08T16:30:00+09:00"
+  ],
+  "venues": [
+    {
+      "name": "EX THEATER ROPPONGI",
+      "prefecture": "長崎"
+    },
+    {
+      "name": "EX THEATER ROPPONGI",
+      "prefecture": "愛知"
+    },
+    {
+      "name": "EX THEATER ROPPONGI",
+      "prefecture": "東京"
+    }
+  ],
+  "buyUrls": [
+    "https://idol-spot.tstar.jp/cart/performances/369494/agreement",
+    "https://idol-spot.tstar.jp/cart/performances/369495/agreement",
+    "https://idol-spot.tstar.jp/lots/events/60471/entry/59925/agreement"
+  ],
+  "buyUrls2": [
+    "",
+    "",
+    ""
+  ],
+  "showTimes": [
+    {
+      "open": "16:30",
+      "start": "17:00"
+    },
+    {
+      "open": "18:30",
+      "start": "19:00"
+    },
+    {
+      "open": "16:00",
+      "start": "16:30"
+    }
+  ],
+  "sales": [
+    {
+      "label": "一般発売",
+      "areas": [
+        "長崎"
+      ],
+      "seats": [],
+      "startISO": "2026-09-03T20:30:00+09:00",
+      "endISO": "2026-10-02T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [
+        "愛知"
+      ],
+      "seats": [],
+      "startISO": "2026-09-03T20:45:00+09:00",
+      "endISO": "2026-10-23T23:59:59+09:00"
+    },
+    {
+      "label": "PG先行抽選",
+      "areas": [
+        "東京"
+      ],
+      "seats": [],
+      "startISO": "2026-10-05T20:00:00+09:00",
+      "endISO": "2026-10-12T23:59:59+09:00"
+    },
+    {
+      "label": "一般発売",
+      "areas": [
+        "東京"
+      ],
+      "seats": [],
+      "startISO": "2026-10-13T20:00:00+09:00",
+      "endISO": "2026-11-07T23:59:59+09:00"
+    }
+  ],
+  "tickets": [
+    {
+      "name": "Sチケット",
+      "price": 6000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "Aチケット",
+      "price": 2500,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "Bチケット",
+      "price": 500,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "Aチケット(東京)",
+      "price": 13000,
+      "buyUrl": "#purchase"
+    },
+    {
+      "name": "Bチケット(東京)",
+      "price": 5000,
+      "buyUrl": "#purchase"
+    }
+  ]
+}
