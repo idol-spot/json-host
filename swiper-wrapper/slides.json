@@ -1,40 +1,49 @@
 {
   "slides": [
     {
-      "href": "https://idol-spot.tstar.jp/event/ri6saan/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/06/1780743847_crazymagnet_tour2026_v2.jpg",
-      "title": "くれいじーまぐねっと SODA POP FESTIVAL TOUR 2026 summer",
-      "cat": "8/5(水)-8/26(水)・全国",
+      "href": "https://idol-spot.tstar.jp/event/rickaas/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/08/1787570144_w3000px20260824_EISEI-TO-KARATEA-National-Tour_flyer.png",
+      "title": "衛星とカラテア 全国ツアー「HELLO, NEW STAR!!」",
+      "cat": "9/12(土)-10/24(土)・全国",
+      "badge": "",
+      "fit": "cover",
+      "until": "2026-10-23T23:59:59+09:00"
+    },
+    {
+      "href": "https://idol-spot.tstar.jp/event/ripyaas/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/09/1788337228_appare261003.png",
+      "title": "Appare! めいぽむのはっぴーらっきー☆彡すーぱーばーすでーぱーてぃー♡",
+      "cat": "10/03(土)・東京",
+      "badge": "",
+      "fit": "cover",
+      "until": "2026-10-02T23:59:59+09:00"
+    },
+    {
+      "href": "https://idol-spot.tstar.jp/event/ri6saap/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/09/1789870392_SHIZUKU_BD.png",
+      "title": "衛星とカラテア 波澄しずく生誕記念イベント「泡沫のエンドロール」",
+      "cat": "10/19(月)・東京",
+      "badge": "",
+      "fit": "cover",
+      "until": "2026-10-18T23:59:59+09:00"
+    },
+    {
+      "href": "https://idol-spot.tstar.jp/event/rickaat/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/09/1789779038_congrazie261215.jpg",
+      "title": "コングラッチェ！ONE MAN LIVE『チェチェチェ VIVIVID SMILE!!』",
+      "cat": "12/15(火)・東京",
+      "badge": "",
+      "fit": "cover",
+      "until": "2026-12-14T23:59:59+09:00"
+    },
+    {
+      "href": "https://idol-spot.tstar.jp/event/ria5aag/",
+      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/04/1775529580_S__3260480.jpg",
+      "title": "ARTERIA 2026 tour 「臨界突破」-at SENDAI PIT-",
+      "cat": "2/13(土)・宮城",
       "badge": "",
       "fit": "contain",
-      "until": "2026-08-25T23:59:59+09:00"
-    },
-    {
-      "href": "https://idol-spot.tstar.jp/event/ripyaaq/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/07/1784618725_appare260822.jpg",
-      "title": "Appare! なちゅ17歳になるよ！~これからもいっぱい食べて成長中~",
-      "cat": "8/22(土)・東京",
-      "badge": "",
-      "fit": "cover",
-      "until": "2026-08-21T23:59:59+09:00"
-    },
-    {
-      "href": "https://idol-spot.tstar.jp/event/rickaaq/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/07/1784540938_260917_%E3%81%A1%E3%82%83%E3%83%BC%E3%82%80%E3%81%BD%E3%81%A3%E3%81%97%E3%82%85_flyer.png",
-      "title": "ちゃーむぽっしゅ ONE MAN LIVE TOUR『愛ちぃサークルツアー』 STAGE 3",
-      "cat": "9/17(木)・東京",
-      "badge": "",
-      "fit": "cover",
-      "until": "2026-09-16T23:59:59+09:00"
-    },
-    {
-      "href": "https://idol-spot.tstar.jp/event/rig5abd/",
-      "img": "https://tktmo.azureedge.net/multi-org-pro/sites/111/2026/07/1785421842_bunnylacrew260818_2.jpg",
-      "title": "Bunny La Crew『月海まりな生誕祭2026』",
-      "cat": "8/18(火)・東京",
-      "badge": "",
-      "fit": "cover",
-      "until": "2026-08-17T23:59:59+09:00"
+      "until": "2027-02-12T23:59:59+09:00"
     },
     {
       "href": "https://idol-spot.tstar.jp/event/rileaaz/",
