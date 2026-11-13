@@ -1,5 +1,10 @@
 {
   "title": "おかめワンマンLIVE - TOUR EDITION - Back to you",
+  "showTitles": [
+    "〔11/23(月・祝) 13:30｜宮城〕おかめワンマンLIVE - TOUR EDITION - Back to you",
+    "〔11/23(月・祝) 18:30｜宮城〕おかめワンマンLIVE - TOUR EDITION - Back to you",
+    "〔12/27(日) 15:30｜東京〕おかめワンマンLIVE - TOUR EDITION - FINAL 「Back to you」"
+  ],
   "posterImageUrl": "",
   "viewMode": "shows",
   "buttonText": "",
@@ -18,10 +23,6 @@
     "2026-12-27T15:30:00+09:00"
   ],
   "venues": [
-    {
-      "name": "LIVE STUDIO RIPPLE",
-      "prefecture": "宮城"
-    },
     {
       "name": "LIVE STUDIO RIPPLE",
       "prefecture": "宮城"
