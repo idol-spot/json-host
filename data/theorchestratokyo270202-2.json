@@ -2,8 +2,8 @@
   "title": "THE ORCHESTRA TOKYO 6th ANNIVERSARY ONEMAN SHOW 『BiG BANG ORCHESTRA』",
   "posterImageUrl": "",
   "viewMode": "shows",
-  "buttonText": "【Sチケット】申し込む",
-  "buttonText2": "【A／Bチケット】申し込む",
+  "buttonText": "",
+  "buttonText2": "",
   "performersText": "",
   "pickupText": "楽天チケットアプリ受取（スマートフォン）",
   "paymentText": "クレジットカード／コンビニ決済（セブンイレブン・ファミリーマート）",
@@ -22,10 +22,10 @@
     }
   ],
   "buyUrls": [
-    "https://idol-spot.tstar.jp/lots/events/60731/entry/60377/agreement"
+    "https://idol-spot.tstar.jp/cart/performances/370427/agreement"
   ],
   "buyUrls2": [
-    "https://idol-spot.tstar.jp/lots/events/60731/entry/60379/agreement"
+    ""
   ],
   "showTimes": [
     {
@@ -42,22 +42,22 @@
       "endISO": "2026-11-16T23:59:59+09:00"
     },
     {
-      "label": "一般抽選",
+      "label": "一般発売",
       "areas": [],
       "seats": [
         "Sチケット"
       ],
-      "startISO": "2026-11-19T21:00:00+09:00",
+      "startISO": "2026-11-25T21:00:00+09:00",
       "endISO": "2027-01-12T23:59:59+09:00"
     },
     {
-      "label": "一般抽選",
+      "label": "一般発売",
       "areas": [],
       "seats": [
         "Aチケット",
         "Bチケット"
       ],
-      "startISO": "2026-11-19T21:00:00+09:00",
+      "startISO": "2026-11-25T21:00:00+09:00",
       "endISO": "2027-02-01T23:59:59+09:00"
     }
   ],
